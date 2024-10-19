@@ -2,6 +2,7 @@ let table_of_words;
 let words;
 
 function preload() {
+    console.log("will it load?");
     table_of_words = loadTable("/assets/words.csv", "header", loadData);
 }
 
