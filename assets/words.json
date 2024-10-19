@@ -1,0 +1,185 @@
+[
+    {
+      "ses": "do",
+      "eng": [
+        "no",
+        "not",
+        "nor"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "re",
+      "eng": [
+        "and"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "mi",
+      "eng": [
+        "or"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "fa",
+      "eng": [
+        "at",
+        "to"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "sol",
+      "eng": [
+        "if"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "la",
+      "eng": [
+        "the"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "si",
+      "eng": [
+        "yes"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "si'",
+      "eng": [
+        "willingly"
+      ],
+      "pos": ""
+    },
+    {
+      "ses": "dore",
+      "eng": [
+        "I",
+        "me",
+        "myself",
+        "we",
+        "ourselves"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "dore'",
+      "eng": [
+        "personally"
+      ],
+      "pos": "av"
+    },
+    {
+      "ses": "domi",
+      "eng": [
+        "you",
+        "yourself"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "dofa",
+      "eng": [
+        "he",
+        "she",
+        "it",
+        "him",
+        "her",
+        "they",
+        "them"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "dosol",
+      "eng": [
+        "self",
+        "oneself"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "dola",
+      "eng": [
+        "one",
+        "someone",
+        "another person"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "dosi",
+      "eng": [
+        "other",
+        "another",
+        "alternative"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "do'si",
+      "eng": [
+        "different"
+      ],
+      "pos": "aj"
+    },
+    {
+      "ses": "solresol",
+      "eng": [
+        "language",
+        "idiom",
+        "dialect"
+      ],
+      "pos": "pn"
+    },
+    {
+      "ses": "solsisolre",
+      "eng": [
+        "propagate",
+        "popularize",
+        "spread"
+      ],
+      "pos": "v"
+    },
+    {
+      "ses": "sol'sisolre",
+      "eng": [
+        "propaganda",
+        "spread",
+        "popularization"
+      ],
+      "pos": "n"
+    },
+    {
+      "ses": "solsi'solre",
+      "eng": [
+        "propagator",
+        "popularizer"
+      ],
+      "pos": "n"
+    },
+    {
+      "ses": "solsisol're",
+      "eng": [
+        "propagated",
+        "popularized"
+      ],
+      "pos": "aj"
+    },
+    {
+      "ses": "solsisolre'",
+      "eng": [
+        "by propaganda",
+        "through popularization"
+      ],
+      "pos": "av"
+    }
+]
+  

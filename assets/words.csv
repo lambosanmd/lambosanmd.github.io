@@ -1,2 +1,25 @@
-solresol,verb,noun,noun (one who ...),adjective,adverb
-solsisolre,"propagate, popularize","propaganda of, the spread of, the popularization of","the propagator of, popularizers of","propagated by, popularized by","by the propaganda of, through the popularization of"
+solresol,english,part_of_speech
+do,"no, not, nor",
+re,"and",
+mi,"or",
+fa,"at, to",
+sol,"if",
+la,"the",
+si,"yes",
+si',"willingly",
+dore,"I, me, myself, we, ourselves",pn
+dore',"personally",av
+domi,"you, yourself",pn
+dofa,"he, she, it, him, her, they, them",pn
+dosol,"self, oneself",pn
+dola,"one, someone, another person",pn
+dosi,"other, another, alternative",pn
+do'si,"different",aj
+redo,"my, mine",pn
+remi,"your, yours",pn
+solresol,"language, idiom, dialect",pn
+solsisolre,"propagate, popularize, spread",v
+sol'sisolre,"propaganda, spread, popularization",n
+solsi'solre,"propagator, popularizer",n
+solsisol're,"propagated, popularized",aj
+solsisolre',"by propaganda, through popularization",av
