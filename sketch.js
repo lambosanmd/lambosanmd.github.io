@@ -13,6 +13,7 @@ function loadData(table) {
 
         words.push(new Word(ses));
     }
+    console.log("Data loaded");
 }
 
 function setup() {
