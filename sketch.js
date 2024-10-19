@@ -17,13 +17,12 @@ function loadData(table) {
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    
-    for (let word of words) {
-        word.display(160, 100);
-    }
 }
 
 function draw() {
+    for (let word of words) {
+        word.display(160, 100);
+    }
 }
 
 class Word {
