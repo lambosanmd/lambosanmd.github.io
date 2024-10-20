@@ -42,9 +42,9 @@ function changeTranslation(value) {
     if (found != undefined) {
         translation += found.eng[0]; //random(found.eng);
     } else {
-        translation += "{not found: ";
+        translation += "~";
         translation += value;
-        translation += "}";
+        translation += "~";
     }
     translation += " ";
 }
