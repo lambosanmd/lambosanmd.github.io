@@ -6,7 +6,7 @@ fa,"at, to",
 sol,"if",
 la,"the",
 si,"yes",
-si',"willingly",
+si',"willingly",av
 dore,"I, me, myself, we, ourselves",pn
 dore',"personally",av
 domi,"you, yourself",pn
@@ -17,7 +17,16 @@ dosi,"other, another, alternative",pn
 do'si,"different",aj
 redo,"my, mine",pn
 remi,"your, yours",pn
+midofa,"prefer",v
+mi'dofa,"preference",n
+mido'fa,"preferable",aj
+midofa',"preferably",av
 solresol,"language, idiom, dialect",pn
+resolmila,"continue",v
+re'solmila,"continuation",n
+resol'mila,"one who continues",n
+resolmi'la,"continual",aj
+resolmila',"continually",av
 solsisolre,"propagate, popularize, spread",v
 sol'sisolre,"propaganda, spread, popularization",n
 solsi'solre,"propagator, popularizer",n
