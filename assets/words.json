@@ -56,7 +56,7 @@
     "eng": [
       "willingly"
     ],
-    "pos": ""
+    "pos": "av"
   },
   {
     "ses": "dore",
@@ -147,6 +147,34 @@
     "pos": "pn"
   },
   {
+    "ses": "midofa",
+    "eng": [
+      "prefer"
+    ],
+    "pos": "v"
+  },
+  {
+    "ses": "mi'dofa",
+    "eng": [
+      "preference"
+    ],
+    "pos": "n"
+  },
+  {
+    "ses": "mido'fa",
+    "eng": [
+      "preferable"
+    ],
+    "pos": "aj"
+  },
+  {
+    "ses": "midofa'",
+    "eng": [
+      "preferably"
+    ],
+    "pos": "av"
+  },
+  {
     "ses": "solresol",
     "eng": [
       "language",
@@ -154,6 +182,41 @@
       "dialect"
     ],
     "pos": "pn"
+  },
+  {
+    "ses": "resolmila",
+    "eng": [
+      "continue"
+    ],
+    "pos": "v"
+  },
+  {
+    "ses": "re'solmila",
+    "eng": [
+      "continuation"
+    ],
+    "pos": "n"
+  },
+  {
+    "ses": "resol'mila",
+    "eng": [
+      "one who continues"
+    ],
+    "pos": "n"
+  },
+  {
+    "ses": "resolmi'la",
+    "eng": [
+      "continual"
+    ],
+    "pos": "aj"
+  },
+  {
+    "ses": "resolmila'",
+    "eng": [
+      "continually"
+    ],
+    "pos": "av"
   },
   {
     "ses": "solsisolre",
