@@ -1,3 +1,14 @@
 body {
     background-color: #CBC3E3;
 }
+
+#inputP {
+    top:10%;
+    left:10%;
+    position: relative;
+}
+
+#translation {
+    left:10%;
+    position: relative;
+}
