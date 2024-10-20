@@ -2,7 +2,7 @@ let table_of_words;
 let words_json;
 let words;
 let input;
-let translation_input;
+let output;
 let translation = "";
 
 function preload() {
@@ -26,16 +26,18 @@ function setup() {
     noCanvas();
 
     input = select("#txt");
-    translation_input = select("#translation");
+    output = select("#translation");
 
     input.input(changeInput);
 }
 
 function changeTranslation(value) {
     let found = undefined;
+    // let id = 0;
 
     for (let word of words) {
         found = word.getWord(value);
+        // id++;
         if (found) break;
     }
 
@@ -52,6 +54,7 @@ function changeTranslation(value) {
 function changeInput() {
     let values = splitTokens(input.value(), " ,.!?");
     translation = "";
+    // output.html("");
     // console.log(values);
 
     for (let value of values) {
@@ -60,7 +63,13 @@ function changeInput() {
 
     // console.log(translation);
 
-    translation_input.html(translation.trimEnd() + ".");
+    output.html(translation.trimEnd() + ".");
+
+    // for (let i = 0; i < translation.length; i++) {
+    //     let span = createSpan(translation[i]);
+    //     span.parent(output);
+    //     span.mouseClicked(changeWord);
+    // }
 }
 
 function draw() {

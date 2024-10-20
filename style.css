@@ -2,6 +2,10 @@ body {
     background-color: #CBC3E3;
 }
 
+p {
+    word-break: break-all;
+}
+
 #inputP {
     top:10%;
     left:10%;
