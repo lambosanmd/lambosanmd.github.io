@@ -3,15 +3,14 @@ import csv, json
 words = list()
 
 class Word:
-    def __init__(self, ses, eng, pos):
+    def __init__(self, ses, eng):
         self.ses = ses
         self.eng = eng
-        self.pos = pos
 
 with open("words.csv", mode="r") as csv_file:
     csv_reader = csv.DictReader(csv_file)
     for row in csv_reader:
-        word = Word(row["solresol"], list(map(str.strip, row["english"].split(","))), row["part_of_speech"])
+        word = Word(row["solresol"], row["english"])
         words.append(word)
     print("CSV Done!")
 

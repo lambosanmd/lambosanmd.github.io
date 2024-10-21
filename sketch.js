@@ -33,43 +33,40 @@ function setup() {
 
 function changeTranslation(value) {
     let found = undefined;
-    // let id = 0;
+
+    if (value === "") return;
+
+    if ([".", ",", ":", ",", "\""].includes(value)) {
+        translation += value + "<br/>";
+        return;
+    }
 
     for (let word of words) {
         found = word.getWord(value);
-        // id++;
         if (found) break;
+        // else found = word;
     }
 
     if (found != undefined) {
-        translation += found.eng[0]; //random(found.eng);
+        translation += found.ses + ":&nbsp;&nbsp;" + found.eng;
     } else {
         translation += "~";
         translation += value;
         translation += "~";
     }
-    translation += " ";
+    translation += "<br/>";
 }
 
 function changeInput() {
-    let values = splitTokens(input.value(), " ,.!?");
+    // let values = splitTokens(input.value(), " ,.!?");
+    let values = input.value().split(/(?=[.,:;" ])|(?<=[.,:;"])/g)
     translation = "";
-    // output.html("");
-    // console.log(values);
 
     for (let value of values) {
-        changeTranslation(value);
+        changeTranslation(value.replace("'", "").trim());
     }
 
-    // console.log(translation);
-
-    output.html(translation.trimEnd() + ".");
-
-    // for (let i = 0; i < translation.length; i++) {
-    //     let span = createSpan(translation[i]);
-    //     span.parent(output);
-    //     span.mouseClicked(changeWord);
-    // }
+    output.html(translation.trimEnd());
 }
 
 function draw() {

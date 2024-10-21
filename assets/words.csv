@@ -1,40 +1,72 @@
-solresol,english,part_of_speech
-do,"no, not, nor",
-re,"and",
-mi,"or",
-fa,"at, to",
-sol,"if",
-la,"the",
-si,"yes",
-si',"willingly",av
-dore,"I, me, myself, we, ourselves",pn
-dore',"personally",av
-domi,"you, yourself",pn
-dofa,"he, she, it, him, her, they, them",pn
-dosol,"self, oneself",pn
-dola,"one, someone, another person",pn
-dosi,"other, another, alternative",pn
-do'si,"different",aj
-redo,"my, mine",pn
-remi,"your, yours",pn
-midofa,"prefer",v
-mi'dofa,"preference",n
-mido'fa,"preferable",aj
-midofa',"preferably",av
-solresol,"language, idiom, dialect",pn
-resolmila,"continue",v
-re'solmila,"continuation",n
-resol'mila,"one who continues",n
-resolmi'la,"continual",aj
-resolmila',"continually",av
-famifami,"alert, warn",v
-fa'mifami,"activity, vigilance",n
-fami'fami,"vigilant",n
-famifa'mi,"active, vigilant, alert",aj
-famifami',"activly, vigilantly",av
-sidomido,"city square",n
-solsisolre,"propagate, popularize, spread",v
-sol'sisolre,"propaganda, spread, popularization",n
-solsi'solre,"propagator, popularizer",n
-solsisol're,"propagated, popularized",aj
-solsisolre',"by propaganda, through popularization",av
+solresol,english
+do,"no, not, nor"
+re,"and"
+mi,"or"
+fa,"at, to"
+sol,"if"
+la,"the"
+si,"yes, willingly"
+dodo,"(imperfect) [was]"
+dore,"I, me, myself, we, ourselves"
+dore',"personally"
+domi,"you, yourself"
+dofa,"he, she, it, him, her, they, them"
+dosol,"self, oneself"
+dola,"one, someone, another person"
+dosi,"other, another, alternative, different"
+redo,"my, mine"
+rere,"(pluperfect) [had been]"
+remi,"your, yours"
+refa,"his, her, its"
+resol,"our, ours"
+rela,"your, yours"
+resi,"their, theirs"
+mido,"for"
+mire,"that, which, who"
+mimi,"(future) [will be]"
+mifa,"whose"
+misol,"well, good, right"
+mila,"here is, behold"
+misi,"good evening, good night"
+fado,"what?"
+fare,"that, those"
+fami,"this, these"
+fafa,"(conditional) [would be]"
+fasol,"here, this is"
+fala,"good, tasty, delicious"
+fasi,"much, very, a lot, many (augmentative)"
+soldo,"nothing, nil, naught, null"
+solre,"why?, what for?"
+solmi,"wrong, evil"
+solfa,"because, for"
+solsol,"(imperative) [let's be]"
+solla,"always, perpetuate, perpetuately, constantly"
+solsi,"thanks, thank"
+lado,"yesterday"
+lare,"today, this day"
+lami,"tomorrow"
+lafa,"bad"
+lasol,"never"
+lala,"(present participle) [being]"
+lasi,"of"
+sido,"how"
+sire,"each, every"
+simi,"good morning, good afternoon, hello"
+sifa,"little, scarcely (diminutive)"
+sisol,"mister, sir"
+sila,"madame, ms"
+sisi,"(past participle) [having been]"
+midofa,"prefer, preference, preferable, preferably"
+faredo,"contact, address, send a letter"
+faremi,"be, exist"
+fasolla,"do, make, commit, action, doable"
+solresol,"language, idiom, dialect"
+ladosol,"book, volume, tome"
+dosoldola,"inside, in, internal, internally"
+resolmila,"continue, continuation, one who continues, continual, continually"
+mimiremi,"as, like, such as, alike"
+famifami,"activity, alert, warn, vigilance, vigilant, active, vigilant, alert, activly, vigilantly"
+lamisifa,"result, occur, arise, result, consequence, consequently, as a result, accordingly, in consequence, therefore"
+lasirela,"net, mesh, network, fishnet"
+sidomido,"city square, site(?)"
+solsisolre,"propagate, popularize, spread, propaganda, spread, popularization, propagator, popularizer, propagated, popularized, by propaganda, through popularization"
