@@ -6,13 +6,18 @@ p {
     word-break: break-all;
 }
 
+.container {
+    width: 80%;
+    margin: auto;
+}
+
 #inputP {
-    top:10%;
-    left:10%;
+    top: 10%;
+    left: 10%;
     position: relative;
 }
 
-#translation {
-    left:10%;
+/*#translation {
+    left: 10%;
     position: relative;
-}
+} */
