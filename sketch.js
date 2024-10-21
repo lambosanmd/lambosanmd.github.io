@@ -48,13 +48,16 @@ function changeTranslation(value) {
     }
 
     if (found != undefined) {
-        translation += found.ses + ":&nbsp;&nbsp;" + found.eng;
+        translation += found.ses + ":&nbsp;&nbsp;" + found.eng + "<br/>";
+    // }
     } else {
         translation += "~";
         translation += value;
-        translation += "~";
+        translation += "~<br/>";
     }
-    translation += "<br/>";
+    // }
+
+    // if (found == undefined) translation += "--";
 }
 
 function changeInput() {
@@ -63,21 +66,15 @@ function changeInput() {
     translation = "";
 
     for (let value of values) {
-        changeTranslation(value.replace("'", "").trim());
+        value = value.trim();
+        if (value.length == 1 || value.length == 2) changeTranslation(value);
+        else changeTranslation(value.toLowerCase().replace("'", ""));
     }
 
     output.html(translation.trimEnd());
 }
 
 function draw() {
-    background("#CBC3E3");
-    stroke(0);
-    fill(255);
-    rect(160, 200, 180, 20);
-    noStroke();
-    fill(0);
-    // textAlign(CENTER);
-    text(translation, 170, 215);
 }
 
 class Word {
@@ -88,14 +85,11 @@ class Word {
     }
 
     getWord(word) {
-        if (this.ses == word) return this;
-        return undefined;
-    }
-
-    display(x, y, pos) {
-        fill(0);
-        noStroke();
-        textAlign(CENTER);
-        text("'" + random(this.eng) + "'", x, y);
+        let count = 0;
+        for (let letter of word) {
+            if (this.ses[count++] != letter)
+                return undefined;
+        }
+        return this;
     }
 }

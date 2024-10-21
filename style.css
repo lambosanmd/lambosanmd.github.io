@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    word-break: break-all;
+    /* word-break: break-all; */
 }
 
 .container {
@@ -11,11 +11,11 @@ p {
     margin: auto;
 }
 
-#inputP {
+/* #inputP {
     top: 10%;
     left: 10%;
     position: relative;
-}
+} */
 
 /*#translation {
     left: 10%;

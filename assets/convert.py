@@ -15,5 +15,5 @@ with open("words.csv", mode="r") as csv_file:
     print("CSV Done!")
 
 with open("words.json", mode="w") as json_file:
-    json.dump([word.__dict__ for word in words], json_file)
+    json.dump([word.__dict__ for word in words], json_file, indent=4)
     print("JSON Done!")
