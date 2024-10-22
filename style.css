@@ -2,12 +2,8 @@ body {
     background-color: #CBC3E3;
 }
 
-p {
-    /* word-break: break-all; */
-}
-
 .container {
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 

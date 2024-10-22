@@ -1,5 +1,33 @@
 [
     {
+        "ses": "D",
+        "eng": "(imperfect) [-ed]"
+    },
+    {
+        "ses": "R",
+        "eng": "(pluperfect) [(had) -ed]"
+    },
+    {
+        "ses": "M",
+        "eng": "(future) [will / would have -ed]"
+    },
+    {
+        "ses": "F",
+        "eng": "(conditional) [would / would have -ed]"
+    },
+    {
+        "ses": "L",
+        "eng": "(present participle) [-er]"
+    },
+    {
+        "ses": "S",
+        "eng": "(past participle) [-ed]"
+    },
+    {
+        "ses": "SO",
+        "eng": "(imperative) [let's be]"
+    },
+    {
         "ses": "do",
         "eng": "no, not, nor"
     },
@@ -29,10 +57,6 @@
     },
     {
         "ses": "dodo",
-        "eng": "(imperfect) [-ed]"
-    },
-    {
-        "ses": "D",
         "eng": "(imperfect) [-ed]"
     },
     {
@@ -68,10 +92,6 @@
         "eng": "(pluperfect) [(had) -ed]"
     },
     {
-        "ses": "R",
-        "eng": "(pluperfect) [(had) -ed]"
-    },
-    {
         "ses": "remi",
         "eng": "your, yours"
     },
@@ -101,10 +121,6 @@
     },
     {
         "ses": "mimi",
-        "eng": "(future) [will / would have -ed]"
-    },
-    {
-        "ses": "M",
         "eng": "(future) [will / would have -ed]"
     },
     {
@@ -140,10 +156,6 @@
         "eng": "(conditional) [would / would have -ed]"
     },
     {
-        "ses": "F",
-        "eng": "(conditional) [would / would have -ed]"
-    },
-    {
         "ses": "fasol",
         "eng": "here, this is"
     },
@@ -173,10 +185,6 @@
     },
     {
         "ses": "solsol",
-        "eng": "(imperative) [let's be]"
-    },
-    {
-        "ses": "SO",
         "eng": "(imperative) [let's be]"
     },
     {
@@ -212,10 +220,6 @@
         "eng": "(present participle) [-er]"
     },
     {
-        "ses": "L",
-        "eng": "(present participle) [-er]"
-    },
-    {
         "ses": "lasi",
         "eng": "of"
     },
@@ -245,10 +249,6 @@
     },
     {
         "ses": "sisi",
-        "eng": "(past participle) [-ed]"
-    },
-    {
-        "ses": "S",
         "eng": "(past participle) [-ed]"
     },
     {
@@ -308,12 +308,252 @@
         "eng": "supreme, sovreign"
     },
     {
+        "ses": "dofami",
+        "eng": "magnificence, splendor, superb"
+    },
+    {
+        "ses": "dofasol",
+        "eng": "marvel, wonder"
+    },
+    {
+        "ses": "dofala",
+        "eng": "miracle, supernatural, miraculous"
+    },
+    {
+        "ses": "dofasi",
+        "eng": "adore, worship"
+    },
+    {
+        "ses": "dosoldo",
+        "eng": "pray"
+    },
+    {
         "ses": "dosolre",
         "eng": "believe"
     },
     {
+        "ses": "dosolmi",
+        "eng": "Jesus Christ"
+    },
+    {
+        "ses": "dosolfa",
+        "eng": "Holy Virgin"
+    },
+    {
+        "ses": "dosolla",
+        "eng": "religion"
+    },
+    {
+        "ses": "dosolsi",
+        "eng": "sanctify"
+    },
+    {
+        "ses": "dolado",
+        "eng": "charity, charitable, charitably"
+    },
+    {
+        "ses": "dolare",
+        "eng": "philanthropy, philanthropist"
+    },
+    {
+        "ses": "dolami",
+        "eng": "despise, contempt, contemptuous"
+    },
+    {
+        "ses": "dolafa",
+        "eng": "sympathize, pity, compassion"
+    },
+    {
+        "ses": "dolasol",
+        "eng": "inexcusable, unforgivable"
+    },
+    {
+        "ses": "dolasi",
+        "eng": "incomparable, invaluable, unparalleled, without equal"
+    },
+    {
+        "ses": "dosido",
+        "eng": "help, aid, assist, rescue"
+    },
+    {
+        "ses": "dosire",
+        "eng": "support, base"
+    },
+    {
+        "ses": "dosimi",
+        "eng": "unfaithfulness, infidelity"
+    },
+    {
+        "ses": "dosifa",
+        "eng": "accomplish, fulfill"
+    },
+    {
+        "ses": "dosisol",
+        "eng": "duty, obligation"
+    },
+    {
+        "ses": "dosila",
+        "eng": "noble, ennobled, dignity, worthy, just, pride"
+    },
+    {
+        "ses": "redore",
+        "eng": "philosophy, philosopher, philosophical"
+    },
+    {
+        "ses": "redomi",
+        "eng": "loathe, repugnance, repulsive"
+    },
+    {
+        "ses": "redofa",
+        "eng": "moral, morally, moralize"
+    },
+    {
+        "ses": "redosol",
+        "eng": "customs"
+    },
+    {
+        "ses": "redola",
+        "eng": "proverb, maxim"
+    },
+    {
+        "ses": "redosi",
+        "eng": "honor, honorable, venerable, respectable"
+    },
+    {
+        "ses": "remido",
+        "eng": "limit, confine, border, circumscribe"
+    },
+    {
+        "ses": "remire",
+        "eng": "merit, be worthy of, laudable, praised"
+    },
+    {
+        "ses": "remifa",
+        "eng": "benevolence, weel-doing"
+    },
+    {
+        "ses": "remisol",
+        "eng": "alms, charity"
+    },
+    {
+        "ses": "remila",
+        "eng": "give, gift, present"
+    },
+    {
+        "ses": "remisi",
+        "eng": "inexplicable, indefinable, incomprehensible, inconceiveable, enigmatic"
+    },
+    {
+        "ses": "refado",
+        "eng": "notability, significant, fame"
+    },
+    {
+        "ses": "refare",
+        "eng": "dignities, honors, honorary"
+    },
+    {
+        "ses": "refami",
+        "eng": "displeased, unpleasant, uncomfortable"
+    },
+    {
+        "ses": "refasol",
+        "eng": "indelible (uneraseable)"
+    },
+    {
+        "ses": "refala",
+        "eng": "previlege, prerogative"
+    },
+    {
+        "ses": "refasi",
+        "eng": "qualify, rights"
+    },
+    {
+        "ses": "resoldo",
+        "eng": "doubt, skepticism, skeptical"
+    },
+    {
+        "ses": "resolre",
+        "eng": "err, mistake, error, wrong"
+    },
+    {
+        "ses": "resolmi",
+        "eng": "heresy, heretic"
+    },
+    {
+        "ses": "resolfa",
+        "eng": "atheism, atheist"
+    },
+    {
+        "ses": "resolla",
+        "eng": "materialism, materialistic, materialize"
+    },
+    {
+        "ses": "resolsi",
+        "eng": "discourage, discouragement, tedious"
+    },
+    {
+        "ses": "relado",
+        "eng": "misanthropy, misanthrope"
+    },
+    {
+        "ses": "relare",
+        "eng": "antagonize, thwart, inconvenience, annoying, bother"
+    },
+    {
+        "ses": "relami",
+        "eng": "distrust, suspect, beware, skittish"
+    },
+    {
+        "ses": "relafa",
+        "eng": "impossible, impracticable, impossibility"
+    },
+    {
+        "ses": "relasol",
+        "eng": "intolerance, severity, rigorism, inflexible, rigid"
+    },
+    {
+        "ses": "relasi",
+        "eng": "regret, be sorry, repent, rue"
+    },
+    {
+        "ses": "resido",
+        "eng": "mistreat, bully, maltreatment, brutality, rudeness"
+    },
+    {
+        "ses": "resire",
+        "eng": "toughen, hard, hardness, tough"
+    },
+    {
+        "ses": "resimi",
+        "eng": "spite, bad mood/attitude, sulky, grumpiness, cantankerous, recalcitrant"
+    },
+    {
+        "ses": "resifa",
+        "eng": "become"
+    },
+    {
+        "ses": "resisol",
+        "eng": "sad, sadness, gloom, melancholy"
+    },
+    {
+        "ses": "resila",
+        "eng": "bored, boredom"
+    },
+    {
+        "ses": "midore",
+        "eng": "sympathy, inclination, sympathize, take pleasure"
+    },
+    {
+        "ses": "midomi",
+        "eng": "attract, draw, appeal to"
+    },
+    {
         "ses": "midofa",
-        "eng": "prefer, preference, preferable, preferably"
+        "eng": "prefer, preference, preferable, preferably, like the most"
+    },
+    {
+        "ses": "midosol",
+        "eng": "Trinity"
     },
     {
         "ses": "faredo",

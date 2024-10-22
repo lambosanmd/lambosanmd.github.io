@@ -67,7 +67,7 @@ function changeInput() {
 
     for (let value of values) {
         value = value.trim();
-        if (value.length == 1 || value.length == 2) changeTranslation(value);
+        if (value.length == 1 || (value.length == 2 && (value == "SO"))) changeTranslation(value);
         else changeTranslation(value.toLowerCase().replace("'", ""));
     }
 
@@ -85,6 +85,8 @@ class Word {
     }
 
     getWord(word) {
+        // if (this.ses == word) return this;
+
         let count = 0;
         for (let letter of word) {
             if (this.ses[count++] != letter)
