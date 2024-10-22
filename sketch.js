@@ -114,7 +114,7 @@ function changeTranslation(value) {
         translation += found.ses + ":&emsp;&emsp;" + found.eng + "<br/>";
     // }
     } else {
-        checkReduction(value);
+        checkReduction(value.toLowerCase());
     }
     // }
 
