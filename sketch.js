@@ -31,6 +31,69 @@ function setup() {
     input.input(changeInput);
 }
 
+function checkReduction(old) {
+    let found = undefined;
+    let value = "";
+
+    let s = 0;
+
+    for (let i = 0; i < old.length; i++) {
+        let letter = old[i];
+        if (s % 2 == 0) {
+            switch (letter) {
+                case "d": value += "do"; break;
+                case "r": value += "re"; break;
+                case "m": value += "mi"; break;
+                case "f": value += "fa"; break;
+                case "s": value += "sol"; break;
+                case "l": value += "la"; break;
+                case "t": value += "si"; break;
+            }
+        } else {
+            switch (letter) {
+                case "a": {
+                    if (old[i + 1] == "u") { value += "la"; i++; }
+                    else value += "fa";
+                    break;
+                }
+                case "e": value += "re"; break;
+                case "i": {
+                    if (old[i + 1] == "u") { value += "si"; i++; }
+                    else value += "mi";
+                    break;
+                }
+                case "o": {
+                    if (old[i + 1] == "u") { value += "sol"; i++; }
+                    else value += "do";
+                    break;
+                }
+            }
+        }
+
+        s++;
+    }
+
+    if (value == "") {
+        translation += "~";
+        translation += old;
+        translation += "~<br/>";
+        return;
+    }
+
+    for (let word of words) {
+        found = word.getWord(value);
+        if (found) break;
+    }
+
+    if (found != undefined) {
+        translation += found.ses + ":&emsp;&emsp;" + found.eng + "<br/>";
+    } else {
+        translation += "~";
+        translation += value;
+        translation += "~<br/>";
+    }
+}
+
 function changeTranslation(value) {
     let found = undefined;
 
@@ -51,9 +114,7 @@ function changeTranslation(value) {
         translation += found.ses + ":&emsp;&emsp;" + found.eng + "<br/>";
     // }
     } else {
-        translation += "~";
-        translation += value;
-        translation += "~<br/>";
+        checkReduction(value);
     }
     // }
 
@@ -68,7 +129,7 @@ function changeInput() {
     for (let value of values) {
         value = value.trim();
         if (value.length == 1 || (value.length == 2 && (value == "SO"))) changeTranslation(value);
-        else changeTranslation(value.toLowerCase().replace("'", ""));
+        else changeTranslation(value.toLowerCase().replaceAll("'", ""));
     }
 
     output.html(translation.trimEnd());
@@ -85,13 +146,14 @@ class Word {
     }
 
     getWord(word) {
-        // if (this.ses == word) return this;
+        if (this.ses == word) return this;
+        return undefined;
 
-        let count = 0;
-        for (let letter of word) {
-            if (this.ses[count++] != letter)
-                return undefined;
-        }
-        return this;
+        // let count = 0;
+        // for (let letter of word) {
+        //     if (this.ses[count++] != letter)
+        //         return undefined;
+        // }
+        // return this;
     }
 }

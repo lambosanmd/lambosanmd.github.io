@@ -2462,5 +2462,873 @@
     {
         "ses": "dosilasi",
         "eng": "pantry"
+    },
+    {
+        "ses": "",
+        "eng": ""
+    },
+    {
+        "ses": "soldoredo",
+        "eng": "art, artist, artistic, artistically"
+    },
+    {
+        "ses": "soldoremi",
+        "eng": "theater, theatrical, theatrically"
+    },
+    {
+        "ses": "soldorefa",
+        "eng": "represent, representation"
+    },
+    {
+        "ses": "soldoresol",
+        "eng": "work of theater, a theatrical piece"
+    },
+    {
+        "ses": "soldorela",
+        "eng": "black, negro"
+    },
+    {
+        "ses": "soldoresi",
+        "eng": "decor, decorator"
+    },
+    {
+        "ses": "soldomido",
+        "eng": "opera, musical"
+    },
+    {
+        "ses": "soldomire",
+        "eng": "comedy, comedian"
+    },
+    {
+        "ses": "soldomifa",
+        "eng": "tragedy, tragedian, tragic"
+    },
+    {
+        "ses": "soldomisol",
+        "eng": "drama, dramatist, dramatic, dramatically"
+    },
+    {
+        "ses": "soldomila",
+        "eng": "author, writer"
+    },
+    {
+        "ses": "soldomisi",
+        "eng": "actor, actress"
+    },
+    {
+        "ses": "soldofado",
+        "eng": "recite, recitation, reciter, reciting"
+    },
+    {
+        "ses": "soldofare",
+        "eng": "declaim, recite, declamation, recitative, declamatory"
+    },
+    {
+        "ses": "soldofami",
+        "eng": "gesticulate, mime, mimic, gesture, gesticulation, pantomime, language of action, mimicry"
+    },
+    {
+        "ses": "soldofasol",
+        "eng": "tell, recount, describe, narrate, narration, description, raconteur, descriptive"
+    },
+    {
+        "ses": "soldofala",
+        "eng": "accent, inflection, tone of voice, accentuated"
+    },
+    {
+        "ses": "soldofasi",
+        "eng": "express, mean, enunciate, emit, expression, significant, expressive, expressible"
+    },
+    {
+        "ses": "soldosoldo",
+        "eng": "exit, come out"
+    },
+    {
+        "ses": "soldosolre",
+        "eng": "repertoire, list of pieces"
+    },
+    {
+        "ses": "soldosolmi",
+        "eng": "role, character, person whom one represents"
+    },
+    {
+        "ses": "soldosolfa",
+        "eng": "masterpiece, master stroke"
+    },
+    {
+        "ses": "soldosolla",
+        "eng": "effect, sensation"
+    },
+    {
+        "ses": "soldosolsi",
+        "eng": "succeed, success, good luck, successful"
+    },
+    {
+        "ses": "soldolado",
+        "eng": "dilettantism, dilettante (person with an amateur interest in the arts), amateur"
+    },
+    {
+        "ses": "soldolare",
+        "eng": "place, situate, spot, position"
+    },
+    {
+        "ses": "soldolami",
+        "eng": "audience of theater"
+    },
+    {
+        "ses": "soldolafa",
+        "eng": "theater box"
+    },
+    {
+        "ses": "soldolasol",
+        "eng": "theater gallery"
+    },
+    {
+        "ses": "soldolasi",
+        "eng": "amphitheater"
+    },
+    {
+        "ses": "soldosido",
+        "eng": "orchestrate, instrumentation, orchestra"
+    },
+    {
+        "ses": "soldosire",
+        "eng": "instrument, instrumentalist, instrumental"
+    },
+    {
+        "ses": "soldosimi",
+        "eng": "violin, viola, violinist"
+    },
+    {
+        "ses": "soldosifa",
+        "eng": "cello, bass, cellist, contrabass"
+    },
+    {
+        "ses": "soldosisol",
+        "eng": "bow (of a violin)"
+    },
+    {
+        "ses": "soldosila",
+        "eng": "strings"
+    },
+    {
+        "ses": "solredore",
+        "eng": "harp, harpist"
+    },
+    {
+        "ses": "solredomi",
+        "eng": "flute, flutist"
+    },
+    {
+        "ses": "solredofa",
+        "eng": "high woodwinds, clarinet, bassoon"
+    },
+    {
+        "ses": "solredosol",
+        "eng": "saxophone, trombone"
+    },
+    {
+        "ses": "solredola",
+        "eng": "trumpet, bugle, horn"
+    },
+    {
+        "ses": "solredosi",
+        "eng": "fanfare, sounding (of trumpets)"
+    },
+    {
+        "ses": "solremido",
+        "eng": "perform, performance, performer, performing"
+    },
+    {
+        "ses": "solremire",
+        "eng": "accompany, accompaniment, accompanist"
+    },
+    {
+        "ses": "solremifa",
+        "eng": "sing, song, singer, singing"
+    },
+    {
+        "ses": "solremisol",
+        "eng": "voice, tone of voice, vocal"
+    },
+    {
+        "ses": "solremila",
+        "eng": "tenor, counter-tenor, baritone"
+    },
+    {
+        "ses": "solremisi",
+        "eng": "soprano, mezzo-soprano, mezzo-contralto, contralto"
+    },
+    {
+        "ses": "solrefado",
+        "eng": "vocalize, vocalization, vocalized"
+    },
+    {
+        "ses": "solrefare",
+        "eng": "agility, quickness, dexterity, nimbleness, agile, nimble, quickly, nimbly, swiftly, lightly"
+    },
+    {
+        "ses": "solrefami",
+        "eng": "make flexible, flexible, flexibility, versatility, maneuverability, supple"
+    },
+    {
+        "ses": "solrefasol",
+        "eng": "get to know, taste (aesthetic), sense of beauty, refinement, aesthetics, connoisseur"
+    },
+    {
+        "ses": "solrefala",
+        "eng": "talent"
+    },
+    {
+        "ses": "solrefasi",
+        "eng": "perfect, improve, develop, enhance, improvement, development, improved, perfected, perfectible"
+    },
+    {
+        "ses": "solresoldo",
+        "eng": "idleness, leisure, unoccupied, idle, aimless, at leisure"
+    },
+    {
+        "ses": "solresolre",
+        "eng": "sentimentality, feeling (of), sentimental, romantic"
+    },
+    {
+        "ses": "solresolmi",
+        "eng": "interest, concern"
+    },
+    {
+        "ses": "solresolfa",
+        "eng": "move (emotionally), touch, shake up, touching, moving, pathetic"
+    },
+    {
+        "ses": "solresolla",
+        "eng": "delude, illusion, delusion, chimera (metaphorical), utopia, illusory, chimerical, imaginary, fantastic, misleading"
+    },
+    {
+        "ses": "solresolsi",
+        "eng": "symbolize, figure, symbol, allegory, symbolism, emblem, figurative, symbolic, allegorical, figuratively, symbolically"
+    },
+    {
+        "ses": "solrelado",
+        "eng": "surprise, amaze, astonish, astound, marvel, amazing, surprising, unimaginable, striking, stunning, extraordinary"
+    },
+    {
+        "ses": "solrelare",
+        "eng": "wonder, marvel, be struck by, stupefaction, surprised, amazed, stunned, struck, shocked"
+    },
+    {
+        "ses": "solrelami",
+        "eng": "fascinate, mesmerize, enchant, delight, excite, inspire, fascination, prestige, fascinating"
+    },
+    {
+        "ses": "solrelafa",
+        "eng": "feel, experience, start (with surprise), impression, feeling, emotion, stir, thrill, impressed, moved, affected"
+    },
+    {
+        "ses": "solrelasol",
+        "eng": "get excited, get enthusiastic, enthusiasm, excitement, enthusiastic, excited"
+    },
+    {
+        "ses": "solrelasi",
+        "eng": "irresistible, irresistibly"
+    },
+    {
+        "ses": "solresido",
+        "eng": "captivate, enthrall, fascinate, subjugate, submit"
+    },
+    {
+        "ses": "solresire",
+        "eng": "attend, be present, audience, listener, spectator, the public"
+    },
+    {
+        "ses": "solresimi",
+        "eng": "applaud, cheer, applause, cheers, clapping, bravos, cheering, applauders"
+    },
+    {
+        "ses": "solresifa",
+        "eng": "interrupt, suspend, pause, interruption, suspension, interrupter, suspended, stopped, discontinued, pending"
+    },
+    {
+        "ses": "solresisol",
+        "eng": "approve, endorse, sanction, ratify, approval, endorsement, vote, ratification, approving, approvingly"
+    },
+    {
+        "ses": "solresila",
+        "eng": "unanimous, by all, universal, unanimously"
+    },
+    {
+        "ses": "solmidore",
+        "eng": "compete, rivalry, competition, rival, competitor"
+    },
+    {
+        "ses": "solmidomi",
+        "eng": "emulate, try to outdo (through imitation), emulator"
+    },
+    {
+        "ses": "solmidofa",
+        "eng": "become animated, come to life, get worked up, be filled with enthusiasm, animation, verve, spirit, nerve, animate"
+    },
+    {
+        "ses": "solmidosol",
+        "eng": "excel, excellence, excellent, most excellent, for excellence, excellently"
+    },
+    {
+        "ses": "solmidola",
+        "eng": "shine, dazzle, sparkle, burst, flash, glitter, brilliant, bright, dazzling, blinding, stunning, brilliantly, stunningly"
+    },
+    {
+        "ses": "solmidosi",
+        "eng": "surpass, eclipse, overshadow, outweigh, prevail, take precedence over, dominate, exceed"
+    },
+    {
+        "ses": "solmiredo",
+        "eng": "acoustic"
+    },
+    {
+        "ses": "solmiremi",
+        "eng": "tuning fork"
+    },
+    {
+        "ses": "solmirefa",
+        "eng": "tone, tonality, tonic"
+    },
+    {
+        "ses": "solmiresol",
+        "eng": "sharp (music)"
+    },
+    {
+        "ses": "solmirela",
+        "eng": "flat (music)"
+    },
+    {
+        "ses": "solmiresi",
+        "eng": "natural (music), diatonic"
+    },
+    {
+        "ses": "solmifado",
+        "eng": "misconduct, immorality"
+    },
+    {
+        "ses": "solmifare",
+        "eng": "half step (music)"
+    },
+    {
+        "ses": "solmifami",
+        "eng": "interval, gap"
+    },
+    {
+        "ses": "solmifasol",
+        "eng": "interval of a tone, semitone, half step"
+    },
+    {
+        "ses": "solmifala",
+        "eng": "major key, major mode"
+    },
+    {
+        "ses": "solmifasi",
+        "eng": "dominant, sub-dominant(?)"
+    },
+    {
+        "ses": "solmisoldo",
+        "eng": "compose, composition, composer, maestro"
+    },
+    {
+        "ses": "solmisolre",
+        "eng": "music, musician, musical, musically"
+    },
+    {
+        "ses": "solmisolmi",
+        "eng": "note, whole note, half note, quarter note"
+    },
+    {
+        "ses": "solmisolfa",
+        "eng": "sound, intonation"
+    },
+    {
+        "ses": "solmisolla",
+        "eng": "melody, melodist, melodious, melodiously"
+    },
+    {
+        "ses": "solmisolsi",
+        "eng": "harmony, harmonist, harmonious, harmoniously, in harmony"
+    },
+    {
+        "ses": "solmilado",
+        "eng": "organize, organization, organizer"
+    },
+    {
+        "ses": "solmilare",
+        "eng": "concert (of music)"
+    },
+    {
+        "ses": "solmilami",
+        "eng": "program, brochure, flier, bulletin"
+    },
+    {
+        "ses": "solmilafa",
+        "eng": "piano, pianist"
+    },
+    {
+        "ses": "solmilasol",
+        "eng": "organ, harmonium, harmonicord, organist"
+    },
+    {
+        "ses": "solmilasi",
+        "eng": "keyboard, key, pedal"
+    },
+    {
+        "ses": "solmisido",
+        "eng": "lecture, course"
+    },
+    {
+        "ses": "solmisire",
+        "eng": "teach, instruct, educate, profess, professorship, teaching, didactic, teacher, tutor, professor, didactics"
+    },
+    {
+        "ses": "solmisimi",
+        "eng": "method, system, methodist, methodical, systematic, methodically, systematically"
+    },
+    {
+        "ses": "solmisifa",
+        "eng": "immobility, immobile"
+    },
+    {
+        "ses": "solmisisol",
+        "eng": "theory, theorist, theoretician, theoretical"
+    },
+    {
+        "ses": "solmisila",
+        "eng": "problem, issue, challenge, trouble, problematic"
+    },
+    {
+        "ses": "solfadore",
+        "eng": "Philotechnic (?)"
+    },
+    {
+        "ses": "solfadomi",
+        "eng": "philharmonic, philharmonic society"
+    },
+    {
+        "ses": "solfadofa",
+        "eng": "choirmaster"
+    },
+    {
+        "ses": "solfadosol",
+        "eng": "choir, singer, choir member, chorus, in chorus"
+    },
+    {
+        "ses": "solfadola",
+        "eng": "choral society, a member of a choral society"
+    },
+    {
+        "ses": "solfadosi",
+        "eng": "cantata"
+    },
+    {
+        "ses": "solfaredo",
+        "eng": "concerto"
+    },
+    {
+        "ses": "solfaremi",
+        "eng": "cavatina"
+    },
+    {
+        "ses": "solfarefa",
+        "eng": "solo, duo, trio, quartet, quintet"
+    },
+    {
+        "ses": "solfaresol",
+        "eng": "portamento"
+    },
+    {
+        "ses": "solfarela",
+        "eng": "trill, cadence"
+    },
+    {
+        "ses": "solfaresi",
+        "eng": "fermata, pause"
+    },
+    {
+        "ses": "solfamido",
+        "eng": "grow old, decline, be on the decline, old age, decay, decrepitude, old man, old person, decrepit"
+    },
+    {
+        "ses": "solfamire",
+        "eng": "scale, musical scale"
+    },
+    {
+        "ses": "solfamifa",
+        "eng": "sing using the \u201csol-fa\u201d system, solfege, vocal music"
+    },
+    {
+        "ses": "solfamisol",
+        "eng": "quaver, eighth note, sixteenth note, thirty-second note, sixty-fourth note"
+    },
+    {
+        "ses": "solfamila",
+        "eng": "syncopate, syncopation"
+    },
+    {
+        "ses": "solfamisi",
+        "eng": "rhythm, measure, rhythmic, rhythmical"
+    },
+    {
+        "ses": "solfasoldo",
+        "eng": "disappear, vanish, disappearance, gone, missing, vanished"
+    },
+    {
+        "ses": "solfasolre",
+        "eng": "musical part, score, sheet of music"
+    },
+    {
+        "ses": "solfasolmi",
+        "eng": "prelude"
+    },
+    {
+        "ses": "solfasolfa",
+        "eng": "modulate, modulation"
+    },
+    {
+        "ses": "solfasolla",
+        "eng": "transpose, transposition, transposer"
+    },
+    {
+        "ses": "solfasolsi",
+        "eng": "fugue"
+    },
+    {
+        "ses": "solfalado",
+        "eng": "arpeggiate, arpeggio"
+    },
+    {
+        "ses": "solfalare",
+        "eng": "chord"
+    },
+    {
+        "ses": "solfalami",
+        "eng": "base, foundation, basis, fundamental, fundamentally"
+    },
+    {
+        "ses": "solfalafa",
+        "eng": "concern, pertain to, related"
+    },
+    {
+        "ses": "solfalasol",
+        "eng": "symphony, symphonist, symphonic composer"
+    },
+    {
+        "ses": "solfalasi",
+        "eng": "counterpoint"
+    },
+    {
+        "ses": "solfasido",
+        "eng": "rests (music), whole rest, half rest, quarter rest, eighth rest, sixteenth rest"
+    },
+    {
+        "ses": "solfasire",
+        "eng": "drum, drumming, bass drum"
+    },
+    {
+        "ses": "solfasimi",
+        "eng": "resonate, resound, vibrate, sound, resonance, echo, resounding"
+    },
+    {
+        "ses": "solfasifa",
+        "eng": "whistle"
+    },
+    {
+        "ses": "solfasisol",
+        "eng": "castanets, tambourine, cymbal"
+    },
+    {
+        "ses": "solfasila",
+        "eng": "barrel organ"
+    },
+    {
+        "ses": "solladore",
+        "eng": "museum, gallery"
+    },
+    {
+        "ses": "solladomi",
+        "eng": "picture, painting, print, engraving, frame"
+    },
+    {
+        "ses": "solladofa",
+        "eng": "sketch, outline, draft"
+    },
+    {
+        "ses": "solladosol",
+        "eng": "draw, drawing, line (of a pen/pencil), drawer, cartoonist"
+    },
+    {
+        "ses": "solladola",
+        "eng": "paint, painting, painter, color, shade"
+    },
+    {
+        "ses": "solladosi",
+        "eng": "miniature"
+    },
+    {
+        "ses": "sollaredo",
+        "eng": "watercolor"
+    },
+    {
+        "ses": "sollaremi",
+        "eng": "pastel"
+    },
+    {
+        "ses": "sollarefa",
+        "eng": "gouache, gauche"
+    },
+    {
+        "ses": "sollaresol",
+        "eng": "fresco (watercolor)"
+    },
+    {
+        "ses": "sollarela",
+        "eng": "palette"
+    },
+    {
+        "ses": "sollaresi",
+        "eng": "brush, paintbrush"
+    },
+    {
+        "ses": "sollamido",
+        "eng": "create a model, shape, modeling, model"
+    },
+    {
+        "ses": "sollamire",
+        "eng": "mold, cast in a mold, molder"
+    },
+    {
+        "ses": "sollamifa",
+        "eng": "sculpt, carve, sculpture, carving, sculptor, carver"
+    },
+    {
+        "ses": "sollamisol",
+        "eng": "statue, bust, torso, statuary"
+    },
+    {
+        "ses": "sollamila",
+        "eng": "pedestal, base"
+    },
+    {
+        "ses": "sollamisi",
+        "eng": "relief (sculpture)"
+    },
+    {
+        "ses": "sollafado",
+        "eng": "daguerreotype, Daguerre (photographic process)"
+    },
+    {
+        "ses": "sollafare",
+        "eng": "photograph, photographic"
+    },
+    {
+        "ses": "sollafami",
+        "eng": "reproduce, reflect, reproduction, reflection, reflectivity, reflexivity, reflector"
+    },
+    {
+        "ses": "sollafasol",
+        "eng": "portrait, image, picture, likeness, portrait painter"
+    },
+    {
+        "ses": "sollafala",
+        "eng": "resemble, like, similarity, resemblance, likeness, analogy, relation, homogeneity, similar, homogeneous"
+    },
+    {
+        "ses": "sollafasi",
+        "eng": "conformity, identity (?), conforms, similar, same, identical, in accordance, the same as, such as, similarly, likewise"
+    },
+    {
+        "ses": "sollasoldo",
+        "eng": "write in stenography, shorthand, stenographer, stenographic"
+    },
+    {
+        "ses": "sollasolre",
+        "eng": "lithography, lithographer, lithographical (method of printing)"
+    },
+    {
+        "ses": "sollasolmi",
+        "eng": "engrave, engraving, engraver"
+    },
+    {
+        "ses": "sollasolfa",
+        "eng": "chisel, engrave"
+    },
+    {
+        "ses": "sollasolla",
+        "eng": "compass"
+    },
+    {
+        "ses": "sollasolsi",
+        "eng": "adjust, specify, tune (instrument), accuracy, precision, consonance, agreement, tuner, precise, accurate"
+    },
+    {
+        "ses": "sollasido",
+        "eng": "academy, academician, academic"
+    },
+    {
+        "ses": "sollasire",
+        "eng": "know, knowledge, science, education, instruction, scholarship, savant, educated, enlightened, erudite, scholar"
+    },
+    {
+        "ses": "sollasimi",
+        "eng": "institute, institution, school"
+    },
+    {
+        "ses": "sollasifa",
+        "eng": "baccalaureate (french examination)"
+    },
+    {
+        "ses": "sollasisol",
+        "eng": "encyclopedia, encyclopedist, encyclopedic"
+    },
+    {
+        "ses": "sollasila",
+        "eng": "mathematics, mathematician, mathematical, mathematically"
+    },
+    {
+        "ses": "solsidore",
+        "eng": "literature, belles letters, writer, literary person, literary"
+    },
+    {
+        "ses": "solsidomi",
+        "eng": "prose writer, prose, prosaic"
+    },
+    {
+        "ses": "solsidofa",
+        "eng": "novel, story, tale, fiction, novelist, romantic, fictitious, fictitiously"
+    },
+    {
+        "ses": "solsidosol",
+        "eng": "fable, parable, writer of fables, fabulous (mythical)"
+    },
+    {
+        "ses": "solsidola",
+        "eng": "write verse, rhyme, versification, rhymer, versifier"
+    },
+    {
+        "ses": "solsidosi",
+        "eng": "poeticize, idealize, poetry, ideality, poet, bard, poetic, perfect, ideal, poetically"
+    },
+    {
+        "ses": "solsiredo",
+        "eng": "speaker, orator, oratory"
+    },
+    {
+        "ses": "solsiremi",
+        "eng": "be inspired, draw inspiration from, inspiration, inspiring"
+    },
+    {
+        "ses": "solsirefa",
+        "eng": "discourse, harangue, speech, address, speaker, talker, orator"
+    },
+    {
+        "ses": "solsiresol",
+        "eng": "eloquence, eloquent, eloquently"
+    },
+    {
+        "ses": "solsirela",
+        "eng": "remarkable, notable, outstanding, remarkably, notably"
+    },
+    {
+        "ses": "solsiresi",
+        "eng": "peak, pinnacle, zenith, climax, culmination, perfect beauty, virtuoso, eminent, transcendent"
+    },
+    {
+        "ses": "solsimido",
+        "eng": "soften, become effeminate, softening, softness, weakness, enervation, soft, weakens, effeminate"
+    },
+    {
+        "ses": "solsimire",
+        "eng": "idea, notion, concept"
+    },
+    {
+        "ses": "solsimifa",
+        "eng": "metaphysics, ideology, metaphysician, ideologist, ideological, ideographic"
+    },
+    {
+        "ses": "solsimisol",
+        "eng": "think, meditate, reflect, thought, meditation, reflection, thinker, thoughtful, meditative, musingly"
+    },
+    {
+        "ses": "solsimila",
+        "eng": "imagine, imagination, imaginative, imaginatively, imaginable"
+    },
+    {
+        "ses": "solsimisi",
+        "eng": "abstraction, abstract"
+    },
+    {
+        "ses": "solsifado",
+        "eng": "dishonesty, disloyalty, bad faith, dishonest, unfair, dishonestly, unfairly"
+    },
+    {
+        "ses": "solsifare",
+        "eng": "genius, divine fire, creative fire, ingenuity, ingenious, clever, ingeniously"
+    },
+    {
+        "ses": "solsifami",
+        "eng": "persevere, persist, perseverance, persistence, constancy, persevering, persistent, constant, steady, constantly"
+    },
+    {
+        "ses": "solsifasol",
+        "eng": "invent, create, invention, creation, inventor, creator, inventive"
+    },
+    {
+        "ses": "solsifala",
+        "eng": "discover, discovery"
+    },
+    {
+        "ses": "solsifasi",
+        "eng": "innovate, innovation, newness, novelty, innovative, innovator, new, modern, recent, newly, recently, modernly"
+    },
+    {
+        "ses": "solsisoldo",
+        "eng": "fight against, fight, enter the fray, moral combat, fighter, wrestler"
+    },
+    {
+        "ses": "solsisolre",
+        "eng": "propagate, popularize, disseminate, spread, propaganda, popularization"
+    },
+    {
+        "ses": "solsisolmi",
+        "eng": "popularity, popular, accredited, popularly"
+    },
+    {
+        "ses": "solsisolfa",
+        "eng": "reputation, fame, repute, reputation, famous, renowned, reputed, famed"
+    },
+    {
+        "ses": "solsisolla",
+        "eng": "distinguish oneself, demonstration, celebrity, illustrious, famous"
+    },
+    {
+        "ses": "solsisolsi",
+        "eng": "glory, glorious, gloriously, with glory, which has gained glory"
+    },
+    {
+        "ses": "solsilado",
+        "eng": "telegraph, telegraphic, telegraphically"
+    },
+    {
+        "ses": "solsilare",
+        "eng": "electricity, electric"
+    },
+    {
+        "ses": "solsilami",
+        "eng": "telephony, telephone, telephonic, by telephone"
+    },
+    {
+        "ses": "solsilafa",
+        "eng": "indicate, sign, evidence, signal"
+    },
+    {
+        "ses": "solsilasol",
+        "eng": "correspond, communicate, correspondence, communication, telegram, corresponding"
+    },
+    {
+        "ses": "solsilasi",
+        "eng": "inform, warn, announce, notify, share, notice, advertisement"
     }
 ]
