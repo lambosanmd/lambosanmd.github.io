@@ -1,7 +1,7 @@
 [
     {
         "ses": "D",
-        "eng": "(imperfect) [-ed]"
+        "eng": "(imperfect, definite preterite) [-ed]"
     },
     {
         "ses": "R",
@@ -57,7 +57,7 @@
     },
     {
         "ses": "dodo",
-        "eng": "(imperfect) [-ed]"
+        "eng": "(imperfect, definite preterite) [-ed]"
     },
     {
         "ses": "dore",
@@ -556,24 +556,1048 @@
         "eng": "Trinity"
     },
     {
+        "ses": "midola",
+        "eng": "reciprocity, mutuality, respective, vice versa"
+    },
+    {
+        "ses": "midosi",
+        "eng": "fond of, attached, be attached to, friend, friendly, take to"
+    },
+    {
+        "ses": "miredo",
+        "eng": "love each other, agree"
+    },
+    {
+        "ses": "miremi",
+        "eng": "beloved, darling, dear, dearly loved"
+    },
+    {
+        "ses": "mirefa",
+        "eng": "tenderness, kindness, loving, tenderly, fondness, endearment"
+    },
+    {
+        "ses": "miresol",
+        "eng": "acknowledge, gratitude, recognitions, be grateful"
+    },
+    {
+        "ses": "mirela",
+        "eng": "devote, focus, devote oneself, dedication"
+    },
+    {
+        "ses": "miresi",
+        "eng": "link, bond, chain, fasten"
+    },
+    {
+        "ses": "mifado",
+        "eng": "agreement, pleasure, enjoyment"
+    },
+    {
+        "ses": "mifare",
+        "eng": "please, like, pleasant, seductive"
+    },
+    {
+        "ses": "mifami",
+        "eng": "sigh"
+    },
+    {
+        "ses": "mifasol",
+        "eng": "raise, elevate, uplift, high"
+    },
+    {
+        "ses": "mifala",
+        "eng": "desire, wish, want, desirous"
+    },
+    {
+        "ses": "mifasi",
+        "eng": "incorrigible, unable to be corrected"
+    },
+    {
+        "ses": "misoldo",
+        "eng": "The Holy Spirit"
+    },
+    {
+        "ses": "misolre",
+        "eng": "the grace of God"
+    },
+    {
+        "ses": "misolmi",
+        "eng": "sweetness, pleasantness, smooth, even-tempered"
+    },
+    {
+        "ses": "misolfa",
+        "eng": "benevolence, affability, goodwill"
+    },
+    {
+        "ses": "misolla",
+        "eng": "equal, equality, equally"
+    },
+    {
+        "ses": "misolsi",
+        "eng": "amiability, kindness, kind, pleasant"
+    },
+    {
+        "ses": "milado",
+        "eng": "appraise, estimate, consider"
+    },
+    {
+        "ses": "milare",
+        "eng": "confide, confidence"
+    },
+    {
+        "ses": "milami",
+        "eng": "be passionate, passion, ardor, ardently"
+    },
+    {
+        "ses": "milafa",
+        "eng": "idolize, dote on, idolatry"
+    },
+    {
+        "ses": "milasol",
+        "eng": "love (for things)"
+    },
+    {
+        "ses": "milasi",
+        "eng": "love, cherish, lover, amorous, enamored, infatuated, lovingly"
+    },
+    {
+        "ses": "misido",
+        "eng": "fidelity, faithfulness, loyalty"
+    },
+    {
+        "ses": "misire",
+        "eng": "to last, durable, stability, permanent, duration"
+    },
+    {
+        "ses": "misimi",
+        "eng": "to get engaged, engagement, fianc\u00e9"
+    },
+    {
+        "ses": "misifa",
+        "eng": "marry, marriage, husband, wife, spouse"
+    },
+    {
+        "ses": "misisol",
+        "eng": "happy, happiness, bliss, fortunate, fortunately"
+    },
+    {
+        "ses": "misila",
+        "eng": "enjoy, enjoyment, pleasure, delirium, intoxicated, drunk"
+    },
+    {
+        "ses": "fadore",
+        "eng": "immoral, immorality, without principles"
+    },
+    {
+        "ses": "fadomi",
+        "eng": "letter (mail), missive, epistle"
+    },
+    {
+        "ses": "fadofa",
+        "eng": "date, era"
+    },
+    {
+        "ses": "fadosol",
+        "eng": "sign, signature"
+    },
+    {
+        "ses": "fadola",
+        "eng": "stamp, seal"
+    },
+    {
+        "ses": "fadosi",
+        "eng": "end, complete, finish, final, finally, termination, achieve"
+    },
+    {
         "ses": "faredo",
         "eng": "contact, address, send a letter"
     },
     {
         "ses": "faremi",
-        "eng": "be, exist"
+        "eng": "be (aux), exist"
+    },
+    {
+        "ses": "farefa",
+        "eng": "go, proceed, go to, going"
+    },
+    {
+        "ses": "faresol",
+        "eng": "lengthen, extend, extension, elongation"
+    },
+    {
+        "ses": "farela",
+        "eng": "mail, post, post office"
+    },
+    {
+        "ses": "faresi",
+        "eng": "inexactitude, inaccuracy, inexact"
+    },
+    {
+        "ses": "famido",
+        "eng": "free, exempt, enfranchisement, emancipate"
+    },
+    {
+        "ses": "famire",
+        "eng": "evil, wicked, malignant, harmful, maleficence"
+    },
+    {
+        "ses": "famifa",
+        "eng": "stamp, postmark (verb)"
+    },
+    {
+        "ses": "famisol",
+        "eng": "have (aux), possess, own, get"
+    },
+    {
+        "ses": "famila",
+        "eng": "postman, courier, mail"
+    },
+    {
+        "ses": "famisi",
+        "eng": "carry, bring, portable"
+    },
+    {
+        "ses": "fasoldo",
+        "eng": "cause, because of, due to"
+    },
+    {
+        "ses": "fasolre",
+        "eng": "theism, deism, theist, belief in God"
+    },
+    {
+        "ses": "fasolmi",
+        "eng": "malice, unkindness, ill will, disparaging, malignancy"
+    },
+    {
+        "ses": "fasolfa",
+        "eng": "act, behave, conduct"
     },
     {
         "ses": "fasolla",
         "eng": "do, make, commit, action, doable"
     },
     {
+        "ses": "fasolsi",
+        "eng": "prepare, make ready, preparation"
+    },
+    {
+        "ses": "falado",
+        "eng": "have to (aux)"
+    },
+    {
+        "ses": "falare",
+        "eng": "able, can, may, possible, practicability"
+    },
+    {
+        "ses": "falami",
+        "eng": "means, resources, by means of, via"
+    },
+    {
+        "ses": "falafa",
+        "eng": "understand, intellect"
+    },
+    {
+        "ses": "falasol",
+        "eng": "disfavor, disrepute, disgrace"
+    },
+    {
+        "ses": "falasi",
+        "eng": "trend, tendency, inclination to, disposition"
+    },
+    {
+        "ses": "fasido",
+        "eng": "walk, step"
+    },
+    {
+        "ses": "fasire",
+        "eng": "inquire, investigate"
+    },
+    {
+        "ses": "fasimi",
+        "eng": "divorce, disown, repudiate, unmarry"
+    },
+    {
+        "ses": "fasifa",
+        "eng": "want, wish, desire, the will, will, free will, voluntary, willingly, at will"
+    },
+    {
+        "ses": "fasisol",
+        "eng": "cry, weep, sob, tears"
+    },
+    {
+        "ses": "fasila",
+        "eng": "decide, determine, resolve, decision, resolution"
+    },
+    {
+        "ses": "soldore",
+        "eng": "copy, transcribe, transcription"
+    },
+    {
+        "ses": "soldomi",
+        "eng": "imitate, forge, mimic, emulate, counterfeit"
+    },
+    {
+        "ses": "soldofa",
+        "eng": "example, model, type"
+    },
+    {
+        "ses": "soldosol",
+        "eng": "translate, interpret, translation, interpreter"
+    },
+    {
+        "ses": "soldola",
+        "eng": "comment, commentary, commentator"
+    },
+    {
+        "ses": "soldosi",
+        "eng": "tradition, traditionally, traditional"
+    },
+    {
+        "ses": "solredo",
+        "eng": "imply, implied"
+    },
+    {
+        "ses": "solremi",
+        "eng": "ingratitude, disregarding, ungrateful"
+    },
+    {
+        "ses": "solrefa",
+        "eng": "shorten, abbreviate, concise, terse, succinct, brief"
+    },
+    {
         "ses": "solresol",
-        "eng": "language, idiom, dialect"
+        "eng": "language, idiom, dialect, linguistics, philology"
+    },
+    {
+        "ses": "solrela",
+        "eng": "dictionary, vocabulary, glossary"
+    },
+    {
+        "ses": "solresi",
+        "eng": "irregularity, anomaly, irregular"
+    },
+    {
+        "ses": "solmido",
+        "eng": "devil, Satan, Lucifer, demon, satanic"
+    },
+    {
+        "ses": "solmire",
+        "eng": "verb, noun, adjective, adverb"
+    },
+    {
+        "ses": "solmifa",
+        "eng": "article"
+    },
+    {
+        "ses": "solmisol",
+        "eng": "pronoun"
+    },
+    {
+        "ses": "solmila",
+        "eng": "remember, recollection, commemorate, memorial, souvenir"
+    },
+    {
+        "ses": "solmisi",
+        "eng": "complicate, complication, make difficult"
+    },
+    {
+        "ses": "solfado",
+        "eng": "neutral, neutrality"
+    },
+    {
+        "ses": "solfare",
+        "eng": "delete, erase, cross out, strike out, efface"
+    },
+    {
+        "ses": "solfami",
+        "eng": "lower, diminish, step down"
+    },
+    {
+        "ses": "solfasol",
+        "eng": "intimidate, bully, trouble"
+    },
+    {
+        "ses": "solfala",
+        "eng": "let, allow"
+    },
+    {
+        "ses": "solfasi",
+        "eng": "impatient, irritable, impatience, chafe"
+    },
+    {
+        "ses": "sollado",
+        "eng": "excuse, exonerate, pardon, pardonable, excusable"
+    },
+    {
+        "ses": "sollare",
+        "eng": "tolerate, bear, indulge, indulgence, tolerance"
+    },
+    {
+        "ses": "sollami",
+        "eng": "forgive, pardon, amnesty, mercy, forgiveness"
+    },
+    {
+        "ses": "sollafa",
+        "eng": "favor, favorite, favorable, prefer"
+    },
+    {
+        "ses": "sollasol",
+        "eng": "permit, allow, authorize, permission"
+    },
+    {
+        "ses": "sollasi",
+        "eng": "climb, mount, rise, climbing, ascent"
+    },
+    {
+        "ses": "solsido",
+        "eng": "run, gallop, race, runner"
+    },
+    {
+        "ses": "solsire",
+        "eng": "joy, playfulness, elation, joyful, perky, merrily, cheerfully"
+    },
+    {
+        "ses": "solsimi",
+        "eng": "misfortune, setback, calamity, disaster, unfortunate"
+    },
+    {
+        "ses": "solsifa",
+        "eng": "laugh, hilarity, laughing"
+    },
+    {
+        "ses": "solsisol",
+        "eng": "smile, grin, smiling"
+    },
+    {
+        "ses": "solsila",
+        "eng": "skip, hop, jump, pounce, frolic"
+    },
+    {
+        "ses": "ladore",
+        "eng": "college, high school, institution, university, teacher, professor, headmaster"
+    },
+    {
+        "ses": "ladomi",
+        "eng": "school, student, pupil, disciple"
+    },
+    {
+        "ses": "ladofa",
+        "eng": "read, reading, reader, readable, legibly"
     },
     {
         "ses": "ladosol",
         "eng": "book, volume, tome"
+    },
+    {
+        "ses": "ladola",
+        "eng": "preface, foreword, preamble, introduction"
+    },
+    {
+        "ses": "ladosi",
+        "eng": "word, term"
+    },
+    {
+        "ses": "laredo",
+        "eng": "alphabet, alphabetical, alphabetically"
+    },
+    {
+        "ses": "laremi",
+        "eng": "spell, spelling"
+    },
+    {
+        "ses": "larefa",
+        "eng": "syllable, syllabic, monosyllable, monosyllabic"
+    },
+    {
+        "ses": "laresol",
+        "eng": "lesson, instruction"
+    },
+    {
+        "ses": "larela",
+        "eng": "phrase, sentence"
+    },
+    {
+        "ses": "laresi",
+        "eng": "distraction, inattention, inadvertently, inattentive, carelessness, disapplied"
+    },
+    {
+        "ses": "lamido",
+        "eng": "temporary, fleeting"
+    },
+    {
+        "ses": "lamire",
+        "eng": "write, writing, writer"
+    },
+    {
+        "ses": "lamifa",
+        "eng": "pen"
+    },
+    {
+        "ses": "lamisol",
+        "eng": "forget, overlook, neglect, forgetful, omit"
+    },
+    {
+        "ses": "lamila",
+        "eng": "ink, inkwell"
+    },
+    {
+        "ses": "lamisi",
+        "eng": "difficulty, trouble, hardness"
+    },
+    {
+        "ses": "lafado",
+        "eng": "paper, sheet of paper, parchment"
+    },
+    {
+        "ses": "lafare",
+        "eng": "page, leaft, flip/thumb through"
+    },
+    {
+        "ses": "lafami",
+        "eng": "notebook, portfolio"
+    },
+    {
+        "ses": "lafasol",
+        "eng": "manuscript, scroll, writing"
+    },
+    {
+        "ses": "lafala",
+        "eng": "text, textual, verbatim, to the letter"
+    },
+    {
+        "ses": "lafasi",
+        "eng": "subject, topic, thesis, theme"
+    },
+    {
+        "ses": "lasoldo",
+        "eng": "irreligion, irreligious, impious, impiety"
+    },
+    {
+        "ses": "lasolre",
+        "eng": "pencil, sketch"
+    },
+    {
+        "ses": "lasolmi",
+        "eng": "inequality, unequal, uneven"
+    },
+    {
+        "ses": "lasolfa",
+        "eng": "undo, undone"
+    },
+    {
+        "ses": "lasolla",
+        "eng": "align, line, row"
+    },
+    {
+        "ses": "lasolsi",
+        "eng": "draw, trace"
+    },
+    {
+        "ses": "lasido",
+        "eng": "point, the main idea"
+    },
+    {
+        "ses": "lasire",
+        "eng": "have fun, enjoy, be delighted, entertainment, amuse"
+    },
+    {
+        "ses": "lasimi",
+        "eng": "penalty, displeasure, tribulation, pain, punishment"
+    },
+    {
+        "ses": "lasifa",
+        "eng": "hesitate, go with uncertainty, irresolution, indecisive"
+    },
+    {
+        "ses": "lasisol",
+        "eng": "punctuate, punctuation"
+    },
+    {
+        "ses": "lasila",
+        "eng": "punctuation mark, question mark, exclamation point, comma"
+    },
+    {
+        "ses": "sidore",
+        "eng": "dishonor, degrade, defile, humiliate"
+    },
+    {
+        "ses": "sidomi",
+        "eng": "enmity, hostility, enemy, opponent, antagonist, hostile"
+    },
+    {
+        "ses": "sidofa",
+        "eng": "start, begin, commence"
+    },
+    {
+        "ses": "sidosol",
+        "eng": "study"
+    },
+    {
+        "ses": "sidola",
+        "eng": "progress, progressive"
+    },
+    {
+        "ses": "sidosi",
+        "eng": "learn, learning, education, apprenticeship"
+    },
+    {
+        "ses": "siredo",
+        "eng": "grammar, syntax, grammatically"
+    },
+    {
+        "ses": "siremi",
+        "eng": "spell, spelling, orthography, orthographic"
+    },
+    {
+        "ses": "sirefa",
+        "eng": "accuracy, exactitude, punctuality, assiduity"
+    },
+    {
+        "ses": "siresol",
+        "eng": "regular, symmetric, symmetry, correct"
+    },
+    {
+        "ses": "sirela",
+        "eng": "attention, take care, contemplation, be careful"
+    },
+    {
+        "ses": "siresi",
+        "eng": "apply, applied, studious, studiously"
+    },
+    {
+        "ses": "simido",
+        "eng": "distinguish, differentiate, discern, difference, nuance"
+    },
+    {
+        "ses": "simire",
+        "eng": "explain, define, demonstrate, expound, definition, explanation"
+    },
+    {
+        "ses": "simifa",
+        "eng": "meaning, significance"
+    },
+    {
+        "ses": "simisol",
+        "eng": "simplify, make easy, simple, elementary"
+    },
+    {
+        "ses": "simila",
+        "eng": "facilitate, make easy, aid, easy"
+    },
+    {
+        "ses": "simisi",
+        "eng": "clarify, lighten, elucidate, explicit, clarity, conceivable"
+    },
+    {
+        "ses": "sifado",
+        "eng": "dictate, dictation, read out"
+    },
+    {
+        "ses": "sifare",
+        "eng": "fault, defect, failure, defective, failed"
+    },
+    {
+        "ses": "sifami",
+        "eng": "correct, reform, correction, reformation"
+    },
+    {
+        "ses": "sifasol",
+        "eng": "wait, patience, patient"
+    },
+    {
+        "ses": "sifala",
+        "eng": "repeat, recapitulate"
+    },
+    {
+        "ses": "sifasi",
+        "eng": "reiterate, renew, again"
+    },
+    {
+        "ses": "sisoldo",
+        "eng": "compete, contest"
+    },
+    {
+        "ses": "sisolre",
+        "eng": "encourage, embolden, stimulate"
+    },
+    {
+        "ses": "sisolmi",
+        "eng": "inspect, review, inspector, inspection"
+    },
+    {
+        "ses": "sisolfa",
+        "eng": "review, scrutinize, investigate"
+    },
+    {
+        "ses": "sisolla",
+        "eng": "analyze, analysis, analyst, analytical"
+    },
+    {
+        "ses": "sisolsi",
+        "eng": "question, interrogate, query"
+    },
+    {
+        "ses": "silado",
+        "eng": "compare, comparison, similarity, similitude, comparable"
+    },
+    {
+        "ses": "silare",
+        "eng": "crown, tiara, coronation, crowned"
+    },
+    {
+        "ses": "silami",
+        "eng": "hate, detest, abhor, hatred, animosity, aversion"
+    },
+    {
+        "ses": "silafa",
+        "eng": "unable, unfit, incapable, inept"
+    },
+    {
+        "ses": "silasol",
+        "eng": "down, descent, go down"
+    },
+    {
+        "ses": "silasi",
+        "eng": "medal, medallion"
+    },
+    {
+        "ses": "dodore",
+        "eng": "earth, world, globe, land"
+    },
+    {
+        "ses": "dodomi",
+        "eng": "seasons"
+    },
+    {
+        "ses": "dodofa",
+        "eng": "winter"
+    },
+    {
+        "ses": "dodosol",
+        "eng": "spring"
+    },
+    {
+        "ses": "dodola",
+        "eng": "summer"
+    },
+    {
+        "ses": "dodosi",
+        "eng": "autumn, fall"
+    },
+    {
+        "ses": "dorere",
+        "eng": "january"
+    },
+    {
+        "ses": "domimi",
+        "eng": "february"
+    },
+    {
+        "ses": "dofafa",
+        "eng": "march"
+    },
+    {
+        "ses": "dosolsol",
+        "eng": "april"
+    },
+    {
+        "ses": "dolala",
+        "eng": "may"
+    },
+    {
+        "ses": "dosisi",
+        "eng": "june"
+    },
+    {
+        "ses": "reredo",
+        "eng": "july"
+    },
+    {
+        "ses": "reremi",
+        "eng": "august"
+    },
+    {
+        "ses": "rerefa",
+        "eng": "september"
+    },
+    {
+        "ses": "reresol",
+        "eng": "october"
+    },
+    {
+        "ses": "rerela",
+        "eng": "november"
+    },
+    {
+        "ses": "reresi",
+        "eng": "december"
+    },
+    {
+        "ses": "redodo",
+        "eng": "one, first, single, unit, only"
+    },
+    {
+        "ses": "remimi",
+        "eng": "two, second, secondly, interval of a second"
+    },
+    {
+        "ses": "refafa",
+        "eng": "three, third, thirdly, interval of a third"
+    },
+    {
+        "ses": "resolsol",
+        "eng": "four, fourth, fourthly, interval of a fourth"
+    },
+    {
+        "ses": "relala",
+        "eng": "five, fifth, fifthly, interval of a fifth"
+    },
+    {
+        "ses": "resisi",
+        "eng": "six, sixth, sixthly, interval of a sixth"
+    },
+    {
+        "ses": "mimido",
+        "eng": "seven, seventh"
+    },
+    {
+        "ses": "mimire",
+        "eng": "eight, eighth, octave"
+    },
+    {
+        "ses": "mimifa",
+        "eng": "nine, ninth"
+    },
+    {
+        "ses": "mimisol",
+        "eng": "ten,tenth"
+    },
+    {
+        "ses": "mimila",
+        "eng": "eleven, eleventh"
+    },
+    {
+        "ses": "mimisi",
+        "eng": "twelve, twelfth"
+    },
+    {
+        "ses": "midodo",
+        "eng": "thirteen, thirteenth"
+    },
+    {
+        "ses": "mirere",
+        "eng": "fourteen, fourteenth"
+    },
+    {
+        "ses": "mifafa",
+        "eng": "fifteen, fifteenth"
+    },
+    {
+        "ses": "misolsol",
+        "eng": "sixteen, sixteenth"
+    },
+    {
+        "ses": "milala",
+        "eng": "seventeen, seventeenth"
+    },
+    {
+        "ses": "misisi",
+        "eng": "eighteen, eighteenth"
+    },
+    {
+        "ses": "fafado",
+        "eng": "nineteen, nineteenth"
+    },
+    {
+        "ses": "fafare",
+        "eng": "twenty, twentieth"
+    },
+    {
+        "ses": "fafami",
+        "eng": "thirty, thirtieth"
+    },
+    {
+        "ses": "fafasol",
+        "eng": "fourty, fourtieth"
+    },
+    {
+        "ses": "fafala",
+        "eng": "fifty, fiftieth"
+    },
+    {
+        "ses": "fafasi",
+        "eng": "sixty, sixtieth"
+    },
+    {
+        "ses": "fadodo",
+        "eng": "eighty, eightieth"
+    },
+    {
+        "ses": "farere",
+        "eng": "hundred, hundredth"
+    },
+    {
+        "ses": "famimi",
+        "eng": "thousand, thousandth"
+    },
+    {
+        "ses": "fasolsol",
+        "eng": "million, millionth"
+    },
+    {
+        "ses": "falala",
+        "eng": "billion, billionth"
+    },
+    {
+        "ses": "fasisi",
+        "eng": "trillion, trillionth"
+    },
+    {
+        "ses": "solsoldo",
+        "eng": "monday"
+    },
+    {
+        "ses": "solsolre",
+        "eng": "tuesday"
+    },
+    {
+        "ses": "solsolmi",
+        "eng": "wednesday"
+    },
+    {
+        "ses": "solsolfa",
+        "eng": "thursday"
+    },
+    {
+        "ses": "solsolla",
+        "eng": "friday"
+    },
+    {
+        "ses": "solsolsi",
+        "eng": "saturday"
+    },
+    {
+        "ses": "soldodo",
+        "eng": "sunday"
+    },
+    {
+        "ses": "solrere",
+        "eng": "the past, former, past"
+    },
+    {
+        "ses": "solmimi",
+        "eng": "the present"
+    },
+    {
+        "ses": "solfafa",
+        "eng": "the future"
+    },
+    {
+        "ses": "sollala",
+        "eng": "hour"
+    },
+    {
+        "ses": "solsisi",
+        "eng": "minute, second, moment, instant"
+    },
+    {
+        "ses": "lalado",
+        "eng": "dawn, twilight"
+    },
+    {
+        "ses": "lalare",
+        "eng": "day, daylight, light"
+    },
+    {
+        "ses": "lalami",
+        "eng": "meteorology, phenomenon, meteor"
+    },
+    {
+        "ses": "lalafa",
+        "eng": "morning"
+    },
+    {
+        "ses": "lalasol",
+        "eng": "evening, twilight"
+    },
+    {
+        "ses": "lalasi",
+        "eng": "night, by night"
+    },
+    {
+        "ses": "ladodo",
+        "eng": "temperature, climate"
+    },
+    {
+        "ses": "larere",
+        "eng": "fog, mist, foggy, misty"
+    },
+    {
+        "ses": "lamimi",
+        "eng": "humidity, wet, moisten, soak, humid"
+    },
+    {
+        "ses": "lafafa",
+        "eng": "snow, hail, sleet"
+    },
+    {
+        "ses": "lasolsol",
+        "eng": "freeze, frost, ice, icy"
+    },
+    {
+        "ses": "lasisi",
+        "eng": "cold, chilly, frigid"
+    },
+    {
+        "ses": "sisido",
+        "eng": "rain, shower, downpour, rainy"
+    },
+    {
+        "ses": "sisire",
+        "eng": "wind, breeze, zephyr, gust, hurricane"
+    },
+    {
+        "ses": "sisimi",
+        "eng": "cloud, cloudy"
+    },
+    {
+        "ses": "sisifa",
+        "eng": "lightning, flash"
+    },
+    {
+        "ses": "sisisol",
+        "eng": "thunder, storm, stormy"
+    },
+    {
+        "ses": "sisila",
+        "eng": "heat, warmth, warm, caloric, with heat, warmly"
+    },
+    {
+        "ses": "sidodo",
+        "eng": "atmosphere, air"
+    },
+    {
+        "ses": "sirere",
+        "eng": "star, planet, comet"
+    },
+    {
+        "ses": "simimi",
+        "eng": "moon, lunar"
+    },
+    {
+        "ses": "sifafa",
+        "eng": "sun, solar"
+    },
+    {
+        "ses": "sisolsol",
+        "eng": "shine, radiate, radiance, radiation"
+    },
+    {
+        "ses": "silala",
+        "eng": "sky, firmament, Milky Way, celestial dome, heavenly"
+    },
+    {
+        "ses": "doredore",
+        "eng": "birth, born, native born"
     },
     {
         "ses": "dosoldola",
