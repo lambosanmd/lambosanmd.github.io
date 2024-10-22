@@ -7,13 +7,17 @@ body {
     margin: auto;
 }
 
+.left {
+    text-justify: inter-word;
+    text-align: justify;
+}
+
 /* #inputP {
     top: 10%;
     left: 10%;
     position: relative;
 } */
 
-/*#translation {
-    left: 10%;
-    position: relative;
+/* #translation {
+    
 } */

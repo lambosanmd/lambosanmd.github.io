@@ -48,7 +48,7 @@ function changeTranslation(value) {
     }
 
     if (found != undefined) {
-        translation += found.ses + ":&nbsp;&nbsp;" + found.eng + "<br/>";
+        translation += found.ses + ":&emsp;&emsp;" + found.eng + "<br/>";
     // }
     } else {
         translation += "~";
