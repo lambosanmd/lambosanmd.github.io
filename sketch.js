@@ -36,7 +36,7 @@ function changeTranslation(value) {
 
     if (value === "") return;
 
-    if ([".", ",", ":", ",", "\""].includes(value)) {
+    if ([".", ",", ":", ",", "\"", "?", "!"].includes(value)) {
         translation += value + "<br/>";
         return;
     }
@@ -62,7 +62,7 @@ function changeTranslation(value) {
 
 function changeInput() {
     // let values = splitTokens(input.value(), " ,.!?");
-    let values = input.value().split(/(?=[.,:;" ])|(?<=[.,:;"])/g)
+    let values = input.value().split(/(?=[.,:;"?! ])|(?<=[.,:;"?!])/g)
     translation = "";
 
     for (let value of values) {

@@ -189,7 +189,7 @@
     },
     {
         "ses": "solla",
-        "eng": "always, perpetuate, perpetuately, constantly"
+        "eng": "always, perpetuate, perpetually, constantly"
     },
     {
         "ses": "solsi",
@@ -305,7 +305,7 @@
     },
     {
         "ses": "dofare",
-        "eng": "supreme, sovreign"
+        "eng": "supreme, sovereign"
     },
     {
         "ses": "dofami",
@@ -429,7 +429,7 @@
     },
     {
         "ses": "remifa",
-        "eng": "benevolence, weel-doing"
+        "eng": "benevolence, well-doing"
     },
     {
         "ses": "remisol",
@@ -441,7 +441,7 @@
     },
     {
         "ses": "remisi",
-        "eng": "inexplicable, indefinable, incomprehensible, inconceiveable, enigmatic"
+        "eng": "inexplicable, indefinable, incomprehensible, inconceivable, enigmatic"
     },
     {
         "ses": "refado",
@@ -461,7 +461,7 @@
     },
     {
         "ses": "refala",
-        "eng": "previlege, prerogative"
+        "eng": "privilege, prerogative"
     },
     {
         "ses": "refasi",
@@ -669,7 +669,7 @@
     },
     {
         "ses": "misimi",
-        "eng": "to get engaged, engagement, fianc\u00e9"
+        "eng": "to get engaged, engagement, fiance"
     },
     {
         "ses": "misifa",
@@ -1049,7 +1049,7 @@
     },
     {
         "ses": "lafare",
-        "eng": "page, leaft, flip/thumb through"
+        "eng": "page, leaf, flip/thumb through"
     },
     {
         "ses": "lafami",
@@ -1285,51 +1285,51 @@
     },
     {
         "ses": "dorere",
-        "eng": "january"
+        "eng": "January"
     },
     {
         "ses": "domimi",
-        "eng": "february"
+        "eng": "February"
     },
     {
         "ses": "dofafa",
-        "eng": "march"
+        "eng": "March"
     },
     {
         "ses": "dosolsol",
-        "eng": "april"
+        "eng": "April"
     },
     {
         "ses": "dolala",
-        "eng": "may"
+        "eng": "May"
     },
     {
         "ses": "dosisi",
-        "eng": "june"
+        "eng": "June"
     },
     {
         "ses": "reredo",
-        "eng": "july"
+        "eng": "July"
     },
     {
         "ses": "reremi",
-        "eng": "august"
+        "eng": "August"
     },
     {
         "ses": "rerefa",
-        "eng": "september"
+        "eng": "September"
     },
     {
         "ses": "reresol",
-        "eng": "october"
+        "eng": "October"
     },
     {
         "ses": "rerela",
-        "eng": "november"
+        "eng": "November"
     },
     {
         "ses": "reresi",
-        "eng": "december"
+        "eng": "December"
     },
     {
         "ses": "redodo",
@@ -1417,7 +1417,7 @@
     },
     {
         "ses": "fafasol",
-        "eng": "fourty, fourtieth"
+        "eng": "forty, fortieth"
     },
     {
         "ses": "fafala",
@@ -1453,31 +1453,31 @@
     },
     {
         "ses": "solsoldo",
-        "eng": "monday"
+        "eng": "Monday"
     },
     {
         "ses": "solsolre",
-        "eng": "tuesday"
+        "eng": "Tuesday"
     },
     {
         "ses": "solsolmi",
-        "eng": "wednesday"
+        "eng": "Wednesday"
     },
     {
         "ses": "solsolfa",
-        "eng": "thursday"
+        "eng": "Thursday"
     },
     {
         "ses": "solsolla",
-        "eng": "friday"
+        "eng": "Friday"
     },
     {
         "ses": "solsolsi",
-        "eng": "saturday"
+        "eng": "Saturday"
     },
     {
         "ses": "soldodo",
-        "eng": "sunday"
+        "eng": "Sunday"
     },
     {
         "ses": "solrere",
@@ -1596,39 +1596,871 @@
         "eng": "sky, firmament, Milky Way, celestial dome, heavenly"
     },
     {
+        "ses": "",
+        "eng": ""
+    },
+    {
         "ses": "doredore",
         "eng": "birth, born, native born"
+    },
+    {
+        "ses": "doredomi",
+        "eng": "body, the human body, physical"
+    },
+    {
+        "ses": "doredofa",
+        "eng": "head, brain, skull"
+    },
+    {
+        "ses": "doredosol",
+        "eng": "hair, eyebrows, mustache, beard, eyelashes"
+    },
+    {
+        "ses": "doredola",
+        "eng": "face"
+    },
+    {
+        "ses": "doredosi",
+        "eng": "cheeks"
+    },
+    {
+        "ses": "doremido",
+        "eng": "forehead, temple, front"
+    },
+    {
+        "ses": "doremire",
+        "eng": "eyes, eyelid, eye"
+    },
+    {
+        "ses": "doremifa",
+        "eng": "nose, nostril, nasal"
+    },
+    {
+        "ses": "doremisol",
+        "eng": "mouth, lips, tongue, palate, oral"
+    },
+    {
+        "ses": "doremila",
+        "eng": "teeth, dental, dentition"
+    },
+    {
+        "ses": "doremisi",
+        "eng": "chin"
+    },
+    {
+        "ses": "dorefado",
+        "eng": "lavish, wasteful, prodigality"
+    },
+    {
+        "ses": "dorefare",
+        "eng": "neck, throat, larynx"
+    },
+    {
+        "ses": "dorefami",
+        "eng": "chest, breast"
+    },
+    {
+        "ses": "dorefasol",
+        "eng": "shoulder"
+    },
+    {
+        "ses": "dorefala",
+        "eng": "arm, elbow, wrist"
+    },
+    {
+        "ses": "dorefasi",
+        "eng": "hand, palm"
+    },
+    {
+        "ses": "doresoldo",
+        "eng": "disrupt, disturb, upset, upheaval, disturbance"
+    },
+    {
+        "ses": "doresolre",
+        "eng": "servant, maid, valet, chambermaid"
+    },
+    {
+        "ses": "doresolmi",
+        "eng": "stomach"
+    },
+    {
+        "ses": "doresolfa",
+        "eng": "abdomen, belly"
+    },
+    {
+        "ses": "doresolla",
+        "eng": "intestines, entrails, guts, intestinal"
+    },
+    {
+        "ses": "doresolsi",
+        "eng": "liver, spleen"
+    },
+    {
+        "ses": "dorelado",
+        "eng": "back, backbone, spine, vertebral column"
+    },
+    {
+        "ses": "dorelare",
+        "eng": "kidneys"
+    },
+    {
+        "ses": "dorelami",
+        "eng": "hips, side"
+    },
+    {
+        "ses": "dorelafa",
+        "eng": "unapproachable, inaccessible"
+    },
+    {
+        "ses": "dorelasol",
+        "eng": "buttocks, bottom, behind, anus"
+    },
+    {
+        "ses": "dorelasi",
+        "eng": "skin, flesh, epidermis"
+    },
+    {
+        "ses": "doresido",
+        "eng": "bone, ossification"
+    },
+    {
+        "ses": "doresire",
+        "eng": "marrow"
+    },
+    {
+        "ses": "doresimi",
+        "eng": "artery, vein"
+    },
+    {
+        "ses": "doresifa",
+        "eng": "chyle"
+    },
+    {
+        "ses": "doresisol",
+        "eng": "blood, bloody"
+    },
+    {
+        "ses": "doresila",
+        "eng": "circulate, circulation"
+    },
+    {
+        "ses": "domidore",
+        "eng": "members"
+    },
+    {
+        "ses": "domidomi",
+        "eng": "thigh, knee"
+    },
+    {
+        "ses": "domidofa",
+        "eng": "leg, calf"
+    },
+    {
+        "ses": "domidosol",
+        "eng": "foot, heel"
+    },
+    {
+        "ses": "domidola",
+        "eng": "finger, index finger, thumb"
+    },
+    {
+        "ses": "domidosi",
+        "eng": "fingernail, nail"
+    },
+    {
+        "ses": "domiredo",
+        "eng": "the five senses"
+    },
+    {
+        "ses": "domiremi",
+        "eng": "see, vision, visual"
+    },
+    {
+        "ses": "dormirefa",
+        "eng": "touch, feel, handle"
+    },
+    {
+        "ses": "domiresol",
+        "eng": "taste"
+    },
+    {
+        "ses": "domirela",
+        "eng": "smell"
+    },
+    {
+        "ses": "domiresi",
+        "eng": "hear, hearing, auditory, audible"
+    },
+    {
+        "ses": "domifado",
+        "eng": "humanity, mankind, man, woman, male, female"
+    },
+    {
+        "ses": "domifare",
+        "eng": "live, exist, be, life, existence"
+    },
+    {
+        "ses": "domifami",
+        "eng": "breathe, breath, breathing"
+    },
+    {
+        "ses": "domifasol",
+        "eng": "child, children, juvenile, adolescent"
+    },
+    {
+        "ses": "domifala",
+        "eng": "grow, increase, growth, stature, size"
+    },
+    {
+        "ses": "domifasi",
+        "eng": "strength, force, vigor, virility, strong, manly"
+    },
+    {
+        "ses": "domisoldo",
+        "eng": "superiority, supreme, elite, first order"
+    },
+    {
+        "ses": "domisolre",
+        "eng": "power, authority, preeminence, rule"
+    },
+    {
+        "ses": "domisolmi",
+        "eng": "grandeur, magnitude, magnanimity, great"
+    },
+    {
+        "ses": "domisolfa",
+        "eng": "intelligence, capacity, smart, intellect"
+    },
+    {
+        "ses": "domisolla",
+        "eng": "spirit, spiritual, have spirit"
+    },
+    {
+        "ses": "domisolsi",
+        "eng": "soul"
+    },
+    {
+        "ses": "domilado",
+        "eng": "talk, utter, speak, speech, speaking, verbal, speaker, verbally, orally"
+    },
+    {
+        "ses": "domilare",
+        "eng": "pronounce, articulate, pronunciation, articulation"
+    },
+    {
+        "ses": "domilami",
+        "eng": "argue, reason, confer"
+    },
+    {
+        "ses": "domilafa",
+        "eng": "rationality, reason, sense, reasonable"
+    },
+    {
+        "ses": "domilasol",
+        "eng": "discern, discernment, judgment, good sense, dialectic, logic, sensible, wisely, logician, judicious"
+    },
+    {
+        "ses": "domilasi",
+        "eng": "insight, perspicacity, sagacity, clairvoyance, discerning, sharpness"
+    },
+    {
+        "ses": "domisido",
+        "eng": "skill, ability, know-how, competence, clever, adroit, expert, skillful"
+    },
+    {
+        "ses": "domisire",
+        "eng": "pretend, claim, pretense"
+    },
+    {
+        "ses": "domisimi",
+        "eng": "liberate, release, free, freedom, independence"
+    },
+    {
+        "ses": "domisifa",
+        "eng": "energy, energetic, force"
+    },
+    {
+        "ses": "domisisol",
+        "eng": "firmness, stoicism, strong, unshakable, fortitude, hardiness"
+    },
+    {
+        "ses": "domisila",
+        "eng": "face, confront, courage, bravery, courageous, valiant, intrepid"
+    },
+    {
+        "ses": "dofadore",
+        "eng": "wait, pending, expectation, until"
+    },
+    {
+        "ses": "dofadomi",
+        "eng": "hope"
+    },
+    {
+        "ses": "dofadofa",
+        "eng": "know, knowledge, cognizable"
+    },
+    {
+        "ses": "dofadosol",
+        "eng": "be related, related, relationship"
+    },
+    {
+        "ses": "dofadola",
+        "eng": "social, sociability, sociably, sociable"
+    },
+    {
+        "ses": "dofadosi",
+        "eng": "educate, rear (raise), education, educated, well brought up"
+    },
+    {
+        "ses": "dofaredo",
+        "eng": "stinginess, parsimony, miser, sordid, squalor, scant, avarice"
+    },
+    {
+        "ses": "dofaremi",
+        "eng": "save, economy, savings, economic, economically"
+    },
+    {
+        "ses": "dofarefa",
+        "eng": "prosper, prosperity, prosperous, flourishing"
+    },
+    {
+        "ses": "dofaresol",
+        "eng": "be at ease, comfortable, ease, well-being, comfortably"
+    },
+    {
+        "ses": "dofarela",
+        "eng": "enrich, wealth, rich, fortune, opulence, opulent"
+    },
+    {
+        "ses": "dofaresi",
+        "eng": "luxury, deluxe, magnificence, sumptuous, pompous, luxurious, prosperous"
+    },
+    {
+        "ses": "dofamido",
+        "eng": "feelings, principles"
+    },
+    {
+        "ses": "dofamire",
+        "eng": "qualify, qualification, quality, attribute, qualifier"
+    },
+    {
+        "ses": "dofamifa",
+        "eng": "have virtue, virtue, virtuous, virtuously"
+    },
+    {
+        "ses": "dofamisol",
+        "eng": "wisdom, wise, sage, wisely"
+    },
+    {
+        "ses": "dofamila",
+        "eng": "modesty, chastity, modest, chaste"
+    },
+    {
+        "ses": "dofamisi",
+        "eng": "be purified, purity, sweetness, pure, sweet, intact, irreproachable, blameless"
+    },
+    {
+        "ses": "dofasoldo",
+        "eng": "innocence, innocent, innocently"
+    },
+    {
+        "ses": "dofasolre",
+        "eng": "naivety, candor, simplicity, candid, naive, simply"
+    },
+    {
+        "ses": "dofasolmi",
+        "eng": "become beautiful, make oneself beautiful, beauty, lovely, pretty, beautiful"
+    },
+    {
+        "ses": "dofasolfa",
+        "eng": "grace, graceful, graciously"
+    },
+    {
+        "ses": "dofasolla",
+        "eng": "charm, enchant, attractions, charms, charming, attractive, enchanting, delightful"
+    },
+    {
+        "ses": "dofasolsi",
+        "eng": "truth, reality, true, veracity, truthful, real, effective, really, actually"
+    },
+    {
+        "ses": "dofalado",
+        "eng": "frankness, honesty, sincerity, frank, sincere, truly"
+    },
+    {
+        "ses": "dofalare",
+        "eng": "goodness, meekness, benignity"
+    },
+    {
+        "ses": "dofalami",
+        "eng": "sensitivity, impressionability, sensitive, impressionable"
+    },
+    {
+        "ses": "dofalafa",
+        "eng": "heartfelt, warmth, effusion, profusely"
+    },
+    {
+        "ses": "dofalasol",
+        "eng": "generosity, liberality, munificence, liberal, generous"
+    },
+    {
+        "ses": "dofalasi",
+        "eng": "humanity, helpful, humanitarian, humanly"
+    },
+    {
+        "ses": "dofasido",
+        "eng": "prudence, caution, carefully, circumspection"
+    },
+    {
+        "ses": "dofasire",
+        "eng": "predict, forecast, foresee, anticipate, foresight"
+    },
+    {
+        "ses": "dofasimi",
+        "eng": "discretion, discrete, reserved"
+    },
+    {
+        "ses": "dofasifa",
+        "eng": "consciousness, awareness, conscientious"
+    },
+    {
+        "ses": "dofasisol",
+        "eng": "honesty, integrity, righteousness, rectitude, incorruptibility"
+    },
+    {
+        "ses": "dofasila",
+        "eng": "delicacy, tact, delicate, gently"
+    },
+    {
+        "ses": "dosoldore",
+        "eng": "appeal, evoke"
+    },
+    {
+        "ses": "dosoldomi",
+        "eng": "ask, request, demand"
+    },
+    {
+        "ses": "dosoldofa",
+        "eng": "open, opening, ajar, gaping, opener"
+    },
+    {
+        "ses": "dosoldosol",
+        "eng": "enter, penetrate, entry"
     },
     {
         "ses": "dosoldola",
         "eng": "inside, in, internal, internally"
     },
     {
-        "ses": "resolmila",
-        "eng": "continue, continuation, one who continues, continual, continually"
+        "ses": "dosoldosi",
+        "eng": "essence, innate, fundamentally, intrinsically, inherently"
     },
     {
-        "ses": "mimiremi",
-        "eng": "as, like, such as, alike"
+        "ses": "dosolredo",
+        "eng": "arrange, arrangement, order, ordered"
     },
     {
-        "ses": "famifami",
-        "eng": "activity, alert, warn, vigilance, vigilant, active, vigilant, alert, activly, vigilantly"
+        "ses": "dosolremi",
+        "eng": "experience, experienced"
     },
     {
-        "ses": "lamisifa",
-        "eng": "result, occur, arise, result, consequence, consequently, as a result, accordingly, in consequence, therefore"
+        "ses": "dosolrefa",
+        "eng": "regulate, regularize, rule, discipline, regularity, statute"
     },
     {
-        "ses": "lasirela",
-        "eng": "net, mesh, network, fishnet"
+        "ses": "dosolresol",
+        "eng": "occupy, deal with, get involved, occupation, absorbed, occupied"
     },
     {
-        "ses": "sidomido",
-        "eng": "city square, site(?)"
+        "ses": "dosolrela",
+        "eng": "attribute to, attribution, attributive"
     },
     {
-        "ses": "solsisolre",
-        "eng": "propagate, popularize, spread, propaganda, spread, popularization, propagator, popularizer, propagated, popularized, by propaganda, through popularization"
+        "ses": "dosolresi",
+        "eng": "accidental, by chance, fortuitous"
+    },
+    {
+        "ses": "dosomido",
+        "eng": "inferiority, lower, secondary, subordinate"
+    },
+    {
+        "ses": "dosolmire",
+        "eng": "watch, look after, standby, vigil, watchfulness (vigilance?)"
+    },
+    {
+        "ses": "dosolmifa",
+        "eng": "light, turn/switch on, match, igniter, lighter"
+    },
+    {
+        "ses": "dosolmisol",
+        "eng": "candle, wax"
+    },
+    {
+        "ses": "dosolmila",
+        "eng": "gas, gasometer"
+    },
+    {
+        "ses": "dosolmisi",
+        "eng": "illuminate, light up, lighting, illumination, clear, well lit"
+    },
+    {
+        "ses": "dosolfado",
+        "eng": "guilt, culpability, guilty, culprit, reprehensible, blameworthy, reproachable, punishable"
+    },
+    {
+        "ses": "dosolfare",
+        "eng": "awaken, arouse, awake, wake up, alarm clock"
+    },
+    {
+        "ses": "dosolfami",
+        "eng": "rise, stand, get up, stand up, standing, raised, lifted, on foot"
+    },
+    {
+        "ses": "dosolfasol",
+        "eng": "appear, appearance"
+    },
+    {
+        "ses": "dosolfala",
+        "eng": "come, approach, hasten, coming"
+    },
+    {
+        "ses": "dosolfasi",
+        "eng": "salute, bow, greet, hello, greetings"
+    },
+    {
+        "ses": "dosollado",
+        "eng": "listen, hearken, lend an ear, listener, earpiece, earphone"
+    },
+    {
+        "ses": "dosollare",
+        "eng": "rid, unload, riddance, discharge, unloading"
+    },
+    {
+        "ses": "dosollami",
+        "eng": "compliment, commend, praise, congratulation, compliment, laud, laudatory"
+    },
+    {
+        "ses": "dosollafa",
+        "eng": "exaggerate, amplify, magnify, exaggeration, amplification"
+    },
+    {
+        "ses": "dosollasol",
+        "eng": "flatter, adulate, fawn, flattery, adulation, sycophancy, flattering"
+    },
+    {
+        "ses": "dosollasi",
+        "eng": "complacent, condescend, complacency, condescension, patronizing"
+    },
+    {
+        "ses": "dosolsido",
+        "eng": "advise, urge, council, exhortation, advice"
+    },
+    {
+        "ses": "dosolsire",
+        "eng": "remonstrate, remonstrance (argue in protest or opposition)"
+    },
+    {
+        "ses": "dosolsimi",
+        "eng": "suggest, insinuate, insinuation, innuendo, allusion"
+    },
+    {
+        "ses": "dosolsifa",
+        "eng": "lead, guide, conduct, drive, mentor, cicerone"
+    },
+    {
+        "ses": "dosolsisol",
+        "eng": "take, carry, bring"
+    },
+    {
+        "ses": "dosolsila",
+        "eng": "hasten, rush, willingness, enthusiasm, readiness, eager"
+    },
+    {
+        "ses": "doladore",
+        "eng": "invite, summon, call, invitation"
+    },
+    {
+        "ses": "doladomi",
+        "eng": "accept, acquiesce, adhere, consent, agree, acceptance"
+    },
+    {
+        "ses": "doladofa",
+        "eng": "put, lay, affix, put, set, place, apposition"
+    },
+    {
+        "ses": "doladosol",
+        "eng": "cover"
+    },
+    {
+        "ses": "doladola",
+        "eng": "table"
+    },
+    {
+        "ses": "doladosi",
+        "eng": "tablecloth, napkin"
+    },
+    {
+        "ses": "dolaredo",
+        "eng": "tableware, dishes, plate, dish, cup, vase"
+    },
+    {
+        "ses": "dolaremi",
+        "eng": "fork"
+    },
+    {
+        "ses": "dolarefa",
+        "eng": "spoon, scoop, spoonful"
+    },
+    {
+        "ses": "dolaresol",
+        "eng": "cup, glass, goblet, mug, beaker"
+    },
+    {
+        "ses": "dolarela",
+        "eng": "bottle, jar, carafe, flask"
+    },
+    {
+        "ses": "dolaresi",
+        "eng": "wine, champagne"
+    },
+    {
+        "ses": "dolamido",
+        "eng": "silence, shut up, hush, taciturn, silently"
+    },
+    {
+        "ses": "dolamire",
+        "eng": "water, wet"
+    },
+    {
+        "ses": "dolamifa",
+        "eng": "thirsty, thirst, parched"
+    },
+    {
+        "ses": "dolamisol",
+        "eng": "drink, drinker"
+    },
+    {
+        "ses": "dolamila",
+        "eng": "hunger, appetite, starvation"
+    },
+    {
+        "ses": "dolamisi",
+        "eng": "eat, eating, eater, eatable"
+    },
+    {
+        "ses": "dolafado",
+        "eng": "hide, conceal, dissimulate, sneaky"
+    },
+    {
+        "ses": "dolafare",
+        "eng": "feed, nourish, food, substantial, nourishing, feeder, nurse"
+    },
+    {
+        "ses": "dolafami",
+        "eng": "soup, broth"
+    },
+    {
+        "ses": "dolafasol",
+        "eng": "pasta, macaroni, vermicelli"
+    },
+    {
+        "ses": "dolafala",
+        "eng": "bread, loaf, crumb, crust"
+    },
+    {
+        "ses": "dolafasi",
+        "eng": "fish, oysters, eels, salmon"
+    },
+    {
+        "ses": "dolasoldo",
+        "eng": "meat, steak, beef"
+    },
+    {
+        "ses": "dolasolre",
+        "eng": "roast, roasting, toast, grill, broil"
+    },
+    {
+        "ses": "dolasolmi",
+        "eng": "poultry, pigeon, chicken, duck, turkey"
+    },
+    {
+        "ses": "dolasolfa",
+        "eng": "game (food), partridge, hare, roe"
+    },
+    {
+        "ses": "dolasolla",
+        "eng": "pastry, cake, meringue, pie"
+    },
+    {
+        "ses": "dolasolsi",
+        "eng": "pork, ham"
+    },
+    {
+        "ses": "dolasido",
+        "eng": "salt, salted, salting, salt shaker"
+    },
+    {
+        "ses": "dolasire",
+        "eng": "pepper, spice, pepper shaker"
+    },
+    {
+        "ses": "dolasimi",
+        "eng": "vinegar, add vinegar, vinaigrette"
+    },
+    {
+        "ses": "dolasifa",
+        "eng": "north, northern, northward"
+    },
+    {
+        "ses": "dolasisol",
+        "eng": "oil, oily, oil dispenser, lubricate"
+    },
+    {
+        "ses": "dolasila",
+        "eng": "mustard"
+    },
+    {
+        "ses": "dosidore",
+        "eng": "suffice, sufficiency, sufficient, enough, necessary"
+    },
+    {
+        "ses": "dosidomi",
+        "eng": "vegetables, peas, asparagus, spinach, artichokes"
+    },
+    {
+        "ses": "dosidofa",
+        "eng": "salad, lettuce"
+    },
+    {
+        "ses": "dosidosol",
+        "eng": "season, flavor, dress, seasoning, dressing"
+    },
+    {
+        "ses": "dosidola",
+        "eng": "juice, sauce, juicy"
+    },
+    {
+        "ses": "dosidosi",
+        "eng": "eggs, egg shell, omelet"
+    },
+    {
+        "ses": "dosiredo",
+        "eng": "dairy, milk, cream, creamy, dairyman"
+    },
+    {
+        "ses": "dosiremi",
+        "eng": "butter"
+    },
+    {
+        "ses": "dosirefa",
+        "eng": "cheese"
+    },
+    {
+        "ses": "dosiresol",
+        "eng": "dessert, hazelnuts, nuts, almonds, chestnuts, walnuts"
+    },
+    {
+        "ses": "dosirela",
+        "eng": "fruit, strawberries, raspberries, currants, cherries"
+    },
+    {
+        "ses": "dosiresi",
+        "eng": "fruit, grapes, peaches, pears, apples, plums"
+    },
+    {
+        "ses": "dosimido",
+        "eng": "inability, awkwardness, clumsiness, incompetence, clumsy"
+    },
+    {
+        "ses": "dosimire",
+        "eng": "pour, spill"
+    },
+    {
+        "ses": "dosimifa",
+        "eng": "liquors"
+    },
+    {
+        "ses": "dosimisol",
+        "eng": "spirits, alcohol, brandy, rum, absinthe"
+    },
+    {
+        "ses": "dosimila",
+        "eng": "withdraw, disengage, retract, withdrawal"
+    },
+    {
+        "ses": "dosimisi",
+        "eng": "drunk, get drunk, drunkenness, drunkard"
+    },
+    {
+        "ses": "dosifado",
+        "eng": "imprudence, temerity, recklessness, rashness, indiscretion"
+    },
+    {
+        "ses": "dosifare",
+        "eng": "beer, wing, wear"
+    },
+    {
+        "ses": "dosifami",
+        "eng": "refresh, refreshing"
+    },
+    {
+        "ses": "dosifasol",
+        "eng": "cafe, coffee shop"
+    },
+    {
+        "ses": "dosifala",
+        "eng": "tea, teapot"
+    },
+    {
+        "ses": "dosifasi",
+        "eng": "sweeten, sugar, candy"
+    },
+    {
+        "ses": "dosisoldo",
+        "eng": "chocolate, cocoa"
+    },
+    {
+        "ses": "dosisolre",
+        "eng": "uselessness, redundancy, superfluous, useless, in vain"
+    },
+    {
+        "ses": "dosisolmi",
+        "eng": "meal, feast, banquet, lunch, dinner, supper"
+    },
+    {
+        "ses": "dosisolfa",
+        "eng": "cook, cooking, kitchen, of the kitchen"
+    },
+    {
+        "ses": "dosisolla",
+        "eng": "provide, supply, fill, supplies, provisions, provider"
+    },
+    {
+        "ses": "dosisolsi",
+        "eng": "food, edible"
+    },
+    {
+        "ses": "dosilado",
+        "eng": "fragment, cutting, piece, bit, slice"
+    },
+    {
+        "ses": "dosilare",
+        "eng": "empty, void, dry, blank"
+    },
+    {
+        "ses": "dosilami",
+        "eng": "appetizer, hors d\u2019oeuvers"
+    },
+    {
+        "ses": "dosilafa",
+        "eng": "reserve, keep, book, conserve, reserved, conservative"
+    },
+    {
+        "ses": "dosilasol",
+        "eng": "buffet"
+    },
+    {
+        "ses": "dosilasi",
+        "eng": "pantry"
     }
 ]
