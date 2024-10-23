@@ -50,5 +50,221 @@
     {
         "ses": "17",
         "pt": "outro"
+    },
+    {
+        "ses": "21",
+        "pt": "meu, minha"
+    },
+    {
+        "ses": "23",
+        "pt": "teu, tua, seu, sua"
+    },
+    {
+        "ses": "24",
+        "pt": "dele, dela"
+    },
+    {
+        "ses": "25",
+        "pt": "nosso, nossa"
+    },
+    {
+        "ses": "26",
+        "pt": "vosso, vossa"
+    },
+    {
+        "ses": "27",
+        "pt": "deles, delas"
+    },
+    {
+        "ses": "31",
+        "pt": "para, quanto a"
+    },
+    {
+        "ses": "32",
+        "pt": "que, quem, qual"
+    },
+    {
+        "ses": "34",
+        "pt": "cujo(a)"
+    },
+    {
+        "ses": "35",
+        "pt": "bem"
+    },
+    {
+        "ses": "36",
+        "pt": "eis, ó, veja só"
+    },
+    {
+        "ses": "37",
+        "pt": "boa noite"
+    },
+    {
+        "ses": "41",
+        "pt": "o que?"
+    },
+    {
+        "ses": "42",
+        "pt": "aquilo, aquele(a)"
+    },
+    {
+        "ses": "43",
+        "pt": "isto, este(a)"
+    },
+    {
+        "ses": "45",
+        "pt": "eis, ó, veja só"
+    },
+    {
+        "ses": "46",
+        "pt": "bom, agradável, saboroso"
+    },
+    {
+        "ses": "47",
+        "pt": "muito (aumentativo)"
+    },
+    {
+        "ses": "51",
+        "pt": "nada"
+    },
+    {
+        "ses": "52",
+        "pt": "por que?"
+    },
+    {
+        "ses": "53",
+        "pt": "mal"
+    },
+    {
+        "ses": "54",
+        "pt": "porque, pois, já que"
+    },
+    {
+        "ses": "56",
+        "pt": "perpetuar, sempre, para sempre"
+    },
+    {
+        "ses": "57",
+        "pt": "agradecer, obrigado"
+    },
+    {
+        "ses": "61",
+        "pt": "ontem"
+    },
+    {
+        "ses": "62",
+        "pt": "hoje"
+    },
+    {
+        "ses": "63",
+        "pt": "amanhã"
+    },
+    {
+        "ses": "64",
+        "pt": "mau, ruim, desagradável"
+    },
+    {
+        "ses": "65",
+        "pt": "nunca, jamais"
+    },
+    {
+        "ses": "67",
+        "pt": "de, sobre, com"
+    },
+    {
+        "ses": "71",
+        "pt": "como?"
+    },
+    {
+        "ses": "72",
+        "pt": "cada, todo(s), tudo"
+    },
+    {
+        "ses": "73",
+        "pt": "bom dia, boa tarde, oi"
+    },
+    {
+        "ses": "74",
+        "pt": "pouco (diminutivo)"
+    },
+    {
+        "ses": "75",
+        "pt": "sr., senhor"
+    },
+    {
+        "ses": "76",
+        "pt": "sra., senhora, dama"
+    },
+    {
+        "ses": "121",
+        "pt": "tempo, duração"
+    },
+    {
+        "ses": "123",
+        "pt": "dia"
+    },
+    {
+        "ses": "124",
+        "pt": "semana"
+    },
+    {
+        "ses": "125",
+        "pt": "mês"
+    },
+    {
+        "ses": "126",
+        "pt": "ano"
+    },
+    {
+        "ses": "127",
+        "pt": "século"
+    },
+    {
+        "ses": "131",
+        "pt": "universo, a criação"
+    },
+    {
+        "ses": "132",
+        "pt": "imensidão, vastidão, infinito"
+    },
+    {
+        "ses": "134",
+        "pt": "providência"
+    },
+    {
+        "ses": "135",
+        "pt": "Deus, divino"
+    },
+    {
+        "ses": "136",
+        "pt": "eternizar, prolongar"
+    },
+    {
+        "ses": "137",
+        "pt": "imortalizar"
+    },
+    {
+        "ses": "141",
+        "pt": "majestade"
+    },
+    {
+        "ses": "142",
+        "pt": "supremo, soberano"
+    },
+    {
+        "ses": "143",
+        "pt": "esplendor, magnificência"
+    },
+    {
+        "ses": "145",
+        "pt": "maravilha"
+    },
+    {
+        "ses": "146",
+        "pt": "prodígio, milagre"
+    },
+    {
+        "ses": "147",
+        "pt": "adorar"
     }
 ]
