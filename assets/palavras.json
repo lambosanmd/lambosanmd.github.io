@@ -1,0 +1,54 @@
+[
+    {
+        "ses": "1",
+        "pt": "não, nem"
+    },
+    {
+        "ses": "2",
+        "pt": "e"
+    },
+    {
+        "ses": "3",
+        "pt": "ou"
+    },
+    {
+        "ses": "4",
+        "pt": "a, para"
+    },
+    {
+        "ses": "5",
+        "pt": "se, caso"
+    },
+    {
+        "ses": "6",
+        "pt": "o, a, os, as"
+    },
+    {
+        "ses": "7",
+        "pt": "sim"
+    },
+    {
+        "ses": "12",
+        "pt": "eu, me, nós, nos, pessoalmente"
+    },
+    {
+        "ses": "13",
+        "pt": "você, te, vocês, vos"
+    },
+    {
+        "ses": "14",
+        "pt": "ele, ela, isto"
+    },
+    {
+        "ses": "15",
+        "pt": "si mesmo"
+    },
+    {
+        "ses": "16",
+        "pt": "alguém, o próximo, outro"
+    },
+    {
+        "ses": "17",
+        "pt": "outro"
+    }
+]

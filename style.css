@@ -8,8 +8,19 @@ body {
 }
 
 .left {
+    width: 48%;
     text-justify: inter-word;
     text-align: justify;
+    float: left;
+    display: inline;
+}
+
+.right {
+    width: 48%;
+    text-justify: inter-word;
+    text-align: justify;
+    float: right;
+    display: inline;
 }
 
 /* #inputP {
