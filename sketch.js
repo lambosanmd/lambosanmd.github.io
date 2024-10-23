@@ -69,10 +69,17 @@ function checkTranslation(value) {
     let string = value[1];
 
     if (Number(number)) {
-        let word = words.find((x) => x.ses == number);
+        let zero = number.indexOf("0") - number.length;
+        let word = words.find((x) => x.ses == number.replaceAll("0", ""));
+
         if (word) {
-            trans += string + ":&emsp;" + word.pt + "<br/>";
+            trans += string.replaceAll("'", "") + ":&emsp;" + word.pt + "<br/>";
             sample += " " + word.pt[0];
+
+            switch (zero) {
+                case -1: sample += " (adv.)"; break;
+                case -2: sample += " (adj.)"; break;
+            }
         }
     } else {
         trans += "~" + string + "~<br/>";
