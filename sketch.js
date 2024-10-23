@@ -68,6 +68,8 @@ function checkTranslation(value) {
     let number = value[0];
     let string = value[1];
 
+    let error = true;
+
     if (Number(number)) {
         let zero = number.indexOf("0") - number.length;
         let word = words.find((x) => x.ses == number.replaceAll("0", ""));
@@ -80,8 +82,12 @@ function checkTranslation(value) {
                 case -1: sample += " (adv.)"; break;
                 case -2: sample += " (adj.)"; break;
             }
+
+            error = false;
         }
-    } else {
+    }
+    
+    if (error) {
         trans += "~" + string + "~<br/>";
         sample += " " + string;
     }
