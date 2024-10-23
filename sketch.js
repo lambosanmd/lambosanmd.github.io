@@ -71,16 +71,34 @@ function checkTranslation(value) {
     let error = true;
 
     if (Number(number)) {
-        let zero = number.indexOf("0") - number.length;
-        let word = words.find((x) => x.ses == number.replaceAll("0", ""));
+        let zero = number.indexOf("0");
+        let replaced = number.replaceAll("0", "");
+        let len = replaced.length;
+        let word = words.find((x) => x.ses == replaced);
 
         if (word) {
             trans += string.replaceAll("'", "") + ":&emsp;" + word.pt + "<br/>";
             sample += " " + word.pt[0];
 
-            switch (zero) {
-                case -1: sample += " (adv.)"; break;
-                case -2: sample += " (adj.)"; break;
+            switch (len) {
+                case 3: {
+                    switch (zero) {
+                        case 1: sample += " (subs.)"; break;
+                        case 2: sample += " (adj.)"; break;
+                        case 3: sample += " (adv.)"; break;
+                    }
+                    break;
+                }
+                
+                case 4: {
+                    switch (zero) {
+                        case 1: sample += " (subs.)"; break;
+                        case 2: sample += " (subs. aquele que ...)"; break;
+                        case 3: sample += " (adj.)"; break;
+                        case 4: sample += " (adv.)"; break;
+                    }
+                    break;
+                }
             }
 
             error = false;

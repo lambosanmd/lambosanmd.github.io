@@ -266,5 +266,297 @@
     {
         "ses": "147",
         "pt": "adorar"
+    },
+    {
+        "ses": "151",
+        "pt": "pedir, solicitar, orar, rezar, suplicar, invocar"
+    },
+    {
+        "ses": "152",
+        "pt": "crer, acreditar"
+    },
+    {
+        "ses": "153",
+        "pt": "Jesus Cristo"
+    },
+    {
+        "ses": "154",
+        "pt": "Santa Virgem, virginal"
+    },
+    {
+        "ses": "156",
+        "pt": "religião, devoção"
+    },
+    {
+        "ses": "157",
+        "pt": "santificar, santo"
+    },
+    {
+        "ses": "161",
+        "pt": "caridade"
+    },
+    {
+        "ses": "162",
+        "pt": "filantropia"
+    },
+    {
+        "ses": "163",
+        "pt": "desprezar, ridicularizar"
+    },
+    {
+        "ses": "164",
+        "pt": "compadecer-se, pena, compaixão"
+    },
+    {
+        "ses": "165",
+        "pt": "imperdoável, indesculpável"
+    },
+    {
+        "ses": "167",
+        "pt": "incomparável, sem igual"
+    },
+    {
+        "ses": "171",
+        "pt": "ajudar, socorrer, auxiliar"
+    },
+    {
+        "ses": "172",
+        "pt": "apoiar, suportar, manter, sustentar"
+    },
+    {
+        "ses": "173",
+        "pt": "infidelidade"
+    },
+    {
+        "ses": "174",
+        "pt": "cumprir, realizar, conseguir, concretizar"
+    },
+    {
+        "ses": "175",
+        "pt": "dever, ter que, obrigação"
+    },
+    {
+        "ses": "176",
+        "pt": "enobrecer, nobilitar, nobreza"
+    },
+    {
+        "ses": "212",
+        "pt": "filosofia"
+    },
+    {
+        "ses": "213",
+        "pt": "repugnar, enojar, antipatia, repulsão"
+    },
+    {
+        "ses": "214",
+        "pt": "moralizar, moralismo, moral"
+    },
+    {
+        "ses": "215",
+        "pt": "costumes, hábitos"
+    },
+    {
+        "ses": "216",
+        "pt": "provérbio, máxima"
+    },
+    {
+        "ses": "217",
+        "pt": "honrar, respeitar, honra"
+    },
+    {
+        "ses": "231",
+        "pt": "delimitar, limitar"
+    },
+    {
+        "ses": "232",
+        "pt": "merecer, ser digno de"
+    },
+    {
+        "ses": "234",
+        "pt": "benefício, favor, bênção, beneficência"
+    },
+    {
+        "ses": "235",
+        "pt": "esmola"
+    },
+    {
+        "ses": "236",
+        "pt": "dar, presentear, presente"
+    },
+    {
+        "ses": "237",
+        "pt": "inexplicável"
+    },
+    {
+        "ses": "241",
+        "pt": "fama, famoso, notável"
+    },
+    {
+        "ses": "242",
+        "pt": "dignidade"
+    },
+    {
+        "ses": "243",
+        "pt": "desagradar"
+    },
+    {
+        "ses": "245",
+        "pt": "indestrutível, indelével, inapagável"
+    },
+    {
+        "ses": "246",
+        "pt": "privilegiar, preferir"
+    },
+    {
+        "ses": "247",
+        "pt": "ter direito, direitos"
+    },
+    {
+        "ses": "251",
+        "pt": "ceticismo, duvidar de Deus"
+    },
+    {
+        "ses": "252",
+        "pt": "errar, se enganar"
+    },
+    {
+        "ses": "253",
+        "pt": "heresia"
+    },
+    {
+        "ses": "254",
+        "pt": "ateísmo"
+    },
+    {
+        "ses": "256",
+        "pt": "materializar"
+    },
+    {
+        "ses": "257",
+        "pt": "desencorajar"
+    },
+    {
+        "ses": "261",
+        "pt": "misantropia"
+    },
+    {
+        "ses": "262",
+        "pt": "contrariar, se opor"
+    },
+    {
+        "ses": "263",
+        "pt": "desconfiar, suspeitar"
+    },
+    {
+        "ses": "264",
+        "pt": "impossibilidade"
+    },
+    {
+        "ses": "265",
+        "pt": "intolerância, inflexibilidade"
+    },
+    {
+        "ses": "267",
+        "pt": "arrepender-se, lamentar, lastimar"
+    },
+    {
+        "ses": "271",
+        "pt": "maltratar, brutal"
+    },
+    {
+        "ses": "272",
+        "pt": "endurecer-se, dureza"
+    },
+    {
+        "ses": "273",
+        "pt": "irritar-se, ofender-se, desapontar-se, revoltar-se"
+    },
+    {
+        "ses": "274",
+        "pt": "tornar-se"
+    },
+    {
+        "ses": "275",
+        "pt": "entristecer-se, tristeza, melancolia"
+    },
+    {
+        "ses": "276",
+        "pt": "entediar-se, preocupar-se"
+    },
+    {
+        "ses": "312",
+        "pt": "agradar-se, simpatizar, inclinação"
+    },
+    {
+        "ses": "313",
+        "pt": "atrair, atração"
+    },
+    {
+        "ses": "314",
+        "pt": "preferir, gostar mais de"
+    },
+    {
+        "ses": "315",
+        "pt": "Trindade"
+    },
+    {
+        "ses": "316",
+        "pt": "reciprocidade, mutual, vice versa"
+    },
+    {
+        "ses": "317",
+        "pt": "afeiçoar-se, atrair-se, preferir"
+    },
+    {
+        "ses": "321",
+        "pt": "amar-se, concordar(?)"
+    },
+    {
+        "ses": "323",
+        "pt": "bem-amado, querido(a)"
+    },
+    {
+        "ses": "324",
+        "pt": "ternura, tenro, delicado"
+    },
+    {
+        "ses": "325",
+        "pt": "reconhecer, ser grato à, gratidão"
+    },
+    {
+        "ses": "326",
+        "pt": "dedicar-se, devotar-se, consagrar-se"
+    },
+    {
+        "ses": "327",
+        "pt": "amarrar, ligar, acorrentar, ligação, laço"
+    },
+    {
+        "ses": "341",
+        "pt": "aprovação, consentimento, prazer, deleite"
+    },
+    {
+        "ses": "342",
+        "pt": "agradar, seduzir, sedução, agradável"
+    },
+    {
+        "ses": "343",
+        "pt": "suspirar, dar ais, suspiro"
+    },
+    {
+        "ses": "345",
+        "pt": "levantar, erguer, culminante"
+    },
+    {
+        "ses": "346",
+        "pt": "desejar, desejo"
+    },
+    {
+        "ses": "347",
+        "pt": "incorrigível"
+    },
+    {
+        "ses": "2536",
+        "pt": "continuar"
     }
 ]
