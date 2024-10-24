@@ -10,7 +10,7 @@ O objetivo é criar um tradutor que traduza palavras soltas usando sílabas comp
 
 ## Exemplos
 * dore: eu, me, nós, nos, pessoalmente
-* 32: que, quem, qual
+* 1: não, nem
 * falafa: compreender, entender, compreensão, entendimento, entendedor
 * dore do falafa: eu não compreender
 
