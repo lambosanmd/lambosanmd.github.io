@@ -7,6 +7,7 @@ let translation;
 
 let trans;
 let sample;
+let ponctuation;
 
 function preload() {
     json_words = loadJSON("/assets/palavras.json", json_loaded, json_error);
@@ -38,8 +39,22 @@ function word_to_numbers(word) {
     return [copy, word];
 }
 
+function word_to_colored(word) {
+    let colored = word;
+    colored = colored.replaceAll("do", "<span style=\"color: #e81416; font-weight:bold;\">do</span>");
+    colored = colored.replaceAll("re", "<span style=\"color: #ffA500; font-weight:bold;\">re</span>");
+    colored = colored.replaceAll("mi", "<span style=\"color: #fAeb36; font-weight:bold;\">mi</span>");
+    colored = colored.replaceAll("fa", "<span style=\"color: #79c314; font-weight:bold;\">fa</span>");
+    colored = colored.replaceAll("sol", "<span style=\"color: #487de7; font-weight:bold;\">sol</span>");
+    colored = colored.replaceAll("la", "<span style=\"color: #4b369d; font-weight:bold;\">la</span>");
+    colored = colored.replaceAll("si", "<span style=\"color: #70369d; font-weight:bold;\">si</span>");
+    return colored;
+}
+
 function setup() {
     noCanvas();
+
+    ponctuation = ".,;:?!\" ".split("");
 
     input = select("#txtinput");
     output = select("#translation");
@@ -49,19 +64,19 @@ function setup() {
 }
 
 function checkInput() {
-    let values = input.value().split(/(?=[.,;:"?! ])|(?<=[.,;:"?!])/g);
-    trans = "";
-    sample = "";
+    let values = input.value().split(/(?=[.,;:"?! \n\t\r])|(?<=[.,;:"?!])/g);
+    trans = [];
+    sample = [];
 
-    values = values.filter(x => x != " ");
+    values = values.filter(x => x != "" && x != " " && x != "\n");
 
     for (let value of values) {
         value = value.trim();
         checkTranslation(word_to_numbers(value.toLowerCase()));
     }
 
-    output.html(trans.trim());
-    translation.html(sample.trim());
+    output.html(trans.join(""));
+    translation.html(sample.join(""));
 }
 
 function checkTranslation(value) {
@@ -70,34 +85,45 @@ function checkTranslation(value) {
 
     let error = true;
 
+    if (ponctuation.includes(string)) {
+        sample.push(string);
+        return;
+    }
+
     if (Number(number)) {
         let zero = number.indexOf("0");
         let replaced = number.replaceAll("0", "");
         let len = replaced.length;
         let word = words.find((x) => x.ses == replaced);
+        let len3 = false;
+        let len4 = false;
 
         if (word) {
-            trans += string.replaceAll("'", "") + ":&emsp;" + word.pt + "<br/>";
-            sample += " " + word.pt[0];
+            let colored = word_to_colored(string.replaceAll("'", ""));
+            let result = colored;
 
             switch (len) {
-                case 3: {
-                    switch (zero) {
-                        case 1: sample += " (subs.)"; break;
-                        case 2: sample += " (adj.)"; break;
-                        case 3: sample += " (adv.)"; break;
-                    }
-                    break;
+                case 4: result = colored + ":&emsp;" + word.pt + "<br/>"; len4 = true; break;
+                case 3: result = colored + ":&emsp;&emsp;" + word.pt + "<br/>"; len3 = true; break;
+                case 2: result = colored + ":&emsp;&emsp;&emsp;" + word.pt + "<br/>"; break;
+                case 1: result = colored + ":&emsp;&emsp;&emsp;&emsp;" + word.pt + "<br/>"; break;
+            }
+
+            if (trans.indexOf(result) == -1) trans.push(result);
+            sample.push(" " + word.pt[0]);
+
+            if (len3) {
+                switch (zero) {
+                    case 1: sample.push(" (subs.)"); break;
+                    case 2: sample.push(" (adj.)"); break;
+                    case 3: sample.push(" (adv.)"); break;
                 }
-                
-                case 4: {
-                    switch (zero) {
-                        case 1: sample += " (subs.)"; break;
-                        case 2: sample += " (subs. aquele que ...)"; break;
-                        case 3: sample += " (adj.)"; break;
-                        case 4: sample += " (adv.)"; break;
-                    }
-                    break;
+            } else if (len4) {
+                switch (zero) {
+                    case 1: sample.push(" (subs.)"); break;    
+                    case 2: sample.push(" (subs. aquele que ...)"); break;
+                    case 3: sample.push(" (adj.)"); break;
+                    case 4: sample.push(" (adv.)"); break;
                 }
             }
 
@@ -106,8 +132,9 @@ function checkTranslation(value) {
     }
     
     if (error) {
-        trans += "~" + string + "~<br/>";
-        sample += " " + string;
+        let mistake = "~" + string + "~<br/>";
+        if (trans.indexOf(mistake) == -1) trans.push(mistake);
+        sample.push(" " + string);
     }
 }
 

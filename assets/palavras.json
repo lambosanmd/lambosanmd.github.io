@@ -13,7 +13,7 @@
     },
     {
         "ses": "4",
-        "pt": "a, para"
+        "pt": "para, a"
     },
     {
         "ses": "5",
@@ -770,6 +770,438 @@
     {
         "ses": "476",
         "pt": "decidir(-se), resolver, decisão, resolução, decisão tomada, determinação"
+    },
+    {
+        "ses": "512",
+        "pt": "copiar, transcrever, cópia, transcrição, copista"
+    },
+    {
+        "ses": "513",
+        "pt": "imitar, falsificar, imitação, falsificação"
+    },
+    {
+        "ses": "514",
+        "pt": "exemplificar, dar o exemplo, exemplo, modelo"
+    },
+    {
+        "ses": "515",
+        "pt": "traduzir, interpretar, tradução, interpretação, tradutor, intérprete"
+    },
+    {
+        "ses": "516",
+        "pt": "comentar, glossar, comentário, glossário"
+    },
+    {
+        "ses": "517",
+        "pt": "tradição, tradicional"
+    },
+    {
+        "ses": "521",
+        "pt": "subentender, subentendido"
+    },
+    {
+        "ses": "523",
+        "pt": "ignorar, desconhecer, ingratidão, ingrato"
+    },
+    {
+        "ses": "524",
+        "pt": "abreviar, reduzir, diminuir, abreviação, resumo, sucinto"
+    },
+    {
+        "ses": "525",
+        "pt": "língua, idioma, dialeto, linguistíca, filologia"
+    },
+    {
+        "ses": "526",
+        "pt": "dicionário, vocabulário, glossário"
+    },
+    {
+        "ses": "527",
+        "pt": "irregularidade, anomalia, irregular, incorreto"
+    },
+    {
+        "ses": "531",
+        "pt": "diabo, Satã, Beelzebu, demônio, diabólico, satânico"
+    },
+    {
+        "ses": "532",
+        "pt": "verbo, substantivo, adjetivo, advérbio"
+    },
+    {
+        "ses": "534",
+        "pt": "artigo (o, a, ...)"
+    },
+    {
+        "ses": "535",
+        "pt": "pronome"
+    },
+    {
+        "ses": "536",
+        "pt": "lembrar-se, mencionar, memória, memorável"
+    },
+    {
+        "ses": "537",
+        "pt": "complicar, compĺicação, complicado"
+    },
+    {
+        "ses": "541",
+        "pt": "neutralidade, neutro"
+    },
+    {
+        "ses": "542",
+        "pt": "apagar, rasurar, eliminar, eliminação"
+    },
+    {
+        "ses": "543",
+        "pt": "baixar, abaixar, redução"
+    },
+    {
+        "ses": "545",
+        "pt": "pertubar-se, atrapalhar-se, confundir-se"
+    },
+    {
+        "ses": "546",
+        "pt": "deixar, permitir"
+    },
+    {
+        "ses": "547",
+        "pt": "aborrecer-se, irritar-se, impacientar-se, impaciencia, impaciente"
+    },
+    {
+        "ses": "561",
+        "pt": "desculpar, desculpa, desculpável"
+    },
+    {
+        "ses": "562",
+        "pt": "aguentar, tolerar, aturar, tolerância, indulgência"
+    },
+    {
+        "ses": "563",
+        "pt": "perdoar, agraciar, perdão, graça, misericórdia"
+    },
+    {
+        "ses": "564",
+        "pt": "favorecer, favor, favorito, favorável"
+    },
+    {
+        "ses": "565",
+        "pt": "autorizar, permitir, permissão, autorização"
+    },
+    {
+        "ses": "567",
+        "pt": "ascender, subir, escalar, subida, ascendente"
+    },
+    {
+        "ses": "571",
+        "pt": "correr, galopar, corrida, galope, corredor, corrente"
+    },
+    {
+        "ses": "572",
+        "pt": "alegrar-se, alegria, bom humor, alegremente"
+    },
+    {
+        "ses": "573",
+        "pt": "infortúnio, avesso, calamidade, desastre, flagelo"
+    },
+    {
+        "ses": "574",
+        "pt": "rir, riso, ridente, risonho"
+    },
+    {
+        "ses": "575",
+        "pt": "sorrir, sorriso, sorridente"
+    },
+    {
+        "ses": "576",
+        "pt": "saltar, saltitar, pular, salto, pulo"
+    },
+    {
+        "ses": "612",
+        "pt": "instituição, universidade, liceu, ensino médio, professor, diretor (de escolar), reitor"
+    },
+    {
+        "ses": "613",
+        "pt": "escola, aluno, estudante, discípulo, escolar"
+    },
+    {
+        "ses": "614",
+        "pt": "ler, leitura, leitor, legível, legilvemente"
+    },
+    {
+        "ses": "615",
+        "pt": "livro, volume, folheto, panfleto"
+    },
+    {
+        "ses": "616",
+        "pt": "prefácio, introdução"
+    },
+    {
+        "ses": "617",
+        "pt": "palavra, termo"
+    },
+    {
+        "ses": "621",
+        "pt": "alfabeto, abecedário, letras, alfabético"
+    },
+    {
+        "ses": "623",
+        "pt": "soletrar"
+    },
+    {
+        "ses": "624",
+        "pt": "sílaba, monosílaba, silábico, monosilábico"
+    },
+    {
+        "ses": "625",
+        "pt": "lição, aula"
+    },
+    {
+        "ses": "626",
+        "pt": "frase, frasear, locução"
+    },
+    {
+        "ses": "627",
+        "pt": "distração, inadvertência, distraído, inaplicável"
+    },
+    {
+        "ses": "631",
+        "pt": "temporalidade, temporário, perecível, efêmero"
+    },
+    {
+        "ses": "632",
+        "pt": "escrever, escritura, escritor, escrito"
+    },
+    {
+        "ses": "634",
+        "pt": "pena, caneta"
+    },
+    {
+        "ses": "635",
+        "pt": "esquecer, esquecimento, esquecido"
+    },
+    {
+        "ses": "636",
+        "pt": "tinta, tinteiro"
+    },
+    {
+        "ses": "637",
+        "pt": "dificuldade, dificilmente"
+    },
+    {
+        "ses": "641",
+        "pt": "papel, folha, pegaminho"
+    },
+    {
+        "ses": "642",
+        "pt": "folhear, página"
+    },
+    {
+        "ses": "643",
+        "pt": "caderno, portfólio, pasta (de documentos)"
+    },
+    {
+        "ses": "645",
+        "pt": "manuscrito, escrito"
+    },
+    {
+        "ses": "646",
+        "pt": "texto, textual, literal, literalmente, ao pé da letra"
+    },
+    {
+        "ses": "647",
+        "pt": "sujeito, assunto, tese, tema"
+    },
+    {
+        "ses": "651",
+        "pt": "irreligião, impiedade, incredulidade, irreligioso"
+    },
+    {
+        "ses": "652",
+        "pt": "esboçar, lápis"
+    },
+    {
+        "ses": "653",
+        "pt": "desigualdade, desigual"
+    },
+    {
+        "ses": "654",
+        "pt": "desfazer, desfeito"
+    },
+    {
+        "ses": "656",
+        "pt": "alinhar, alinhamento, cordão, linha, reto, alinhado"
+    },
+    {
+        "ses": "657",
+        "pt": "traçar, traço, linear"
+    },
+    {
+        "ses": "671",
+        "pt": "ponto, ponto essencial, coisa principal"
+    },
+    {
+        "ses": "672",
+        "pt": "divertir-se, entreter-se, deleitar, diversão, entretenimento"
+    },
+    {
+        "ses": "673",
+        "pt": "doer, desprezar, dor, tribulação"
+    },
+    {
+        "ses": "674",
+        "pt": "hesitar, estar incerto, hesitação"
+    },
+    {
+        "ses": "675",
+        "pt": "pontuar, pontuação"
+    },
+    {
+        "ses": "676",
+        "pt": "ponto, ponto de exclamação, ponto de interrogação, vírgula"
+    },
+    {
+        "ses": "712",
+        "pt": "desonrar, difamar, profanar, degradar, desonra"
+    },
+    {
+        "ses": "713",
+        "pt": ""
+    },
+    {
+        "ses": "714",
+        "pt": ""
+    },
+    {
+        "ses": "715",
+        "pt": ""
+    },
+    {
+        "ses": "716",
+        "pt": ""
+    },
+    {
+        "ses": "717",
+        "pt": ""
+    },
+    {
+        "ses": "721",
+        "pt": ""
+    },
+    {
+        "ses": "723",
+        "pt": ""
+    },
+    {
+        "ses": "724",
+        "pt": ""
+    },
+    {
+        "ses": "725",
+        "pt": ""
+    },
+    {
+        "ses": "726",
+        "pt": ""
+    },
+    {
+        "ses": "727",
+        "pt": ""
+    },
+    {
+        "ses": "731",
+        "pt": ""
+    },
+    {
+        "ses": "732",
+        "pt": ""
+    },
+    {
+        "ses": "734",
+        "pt": ""
+    },
+    {
+        "ses": "735",
+        "pt": ""
+    },
+    {
+        "ses": "736",
+        "pt": ""
+    },
+    {
+        "ses": "737",
+        "pt": ""
+    },
+    {
+        "ses": "741",
+        "pt": ""
+    },
+    {
+        "ses": "742",
+        "pt": ""
+    },
+    {
+        "ses": "743",
+        "pt": ""
+    },
+    {
+        "ses": "745",
+        "pt": ""
+    },
+    {
+        "ses": "746",
+        "pt": ""
+    },
+    {
+        "ses": "747",
+        "pt": ""
+    },
+    {
+        "ses": "751",
+        "pt": ""
+    },
+    {
+        "ses": "752",
+        "pt": ""
+    },
+    {
+        "ses": "753",
+        "pt": ""
+    },
+    {
+        "ses": "754",
+        "pt": ""
+    },
+    {
+        "ses": "756",
+        "pt": ""
+    },
+    {
+        "ses": "757",
+        "pt": ""
+    },
+    {
+        "ses": "761",
+        "pt": ""
+    },
+    {
+        "ses": "762",
+        "pt": ""
+    },
+    {
+        "ses": "763",
+        "pt": ""
+    },
+    {
+        "ses": "764",
+        "pt": ""
+    },
+    {
+        "ses": "765",
+        "pt": ""
+    },
+    {
+        "ses": "767",
+        "pt": ""
     },
     {
         "ses": "2536",
